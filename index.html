@@ -8,7 +8,7 @@
 	<meta property="og:image" content="data/hinoshi.png" />
 	<meta property="og:description" content="Cesiumを使った日野市オープンデータ可視化のサンプルです" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
-	<title>沖縄漂流スポット</title>
+	<title>沖縄リーフカレントスポット</title>
 	<link rel="alternate" href="http://hiroshima.archiving.jp/index_en.html" hreflang="en" />
 	<link rel="SHORTCUT ICON" href="http://shinsai.mapping.jp/favicon.ico">
 	<style>
@@ -155,31 +155,31 @@
 
 		//視点を登録：　緯度，経度，注視点の高さ，傾き，視点の高さ
 
-		viewPointsArray[0] = new viewPoints("初期視点", 26.206, 127.646, 0, -30, 120000);
-		viewPointsArray[1] = new viewPoints("ナガンヌ島", 26.266463, 127.543748, 0, -18, 1000);
+		viewPointsArray[0] = new viewPoints("初期視点", 26.306, 127.746, 0, -30, 100000);
+		viewPointsArray[1] = new viewPoints("ナガンヌ島", 26.266463, 127.543748, 0, -90, 3000);
 		viewPointsArray[2] = new viewPoints("大度海岸", 26.090512, 127.708637, 0, -90, 2000);
-		viewPointsArray[3] = new viewPoints("名城ビーチ", 26.100927 , 127.659007, 100, -40, 4500);
-		viewPointsArray[4] = new viewPoints("宮城海岸", 26.330796,  127.743229, 0, -10, 300);
-		viewPointsArray[5] = new viewPoints("残波岬", 26.440704 , 127.712136, 10, -10, 2500);
-		viewPointsArray[6] = new viewPoints("真栄田岬", 26.424095, 127.745034, 200, -15, 2500);
-		viewPointsArray[7] = new viewPoints("万座毛付近", 26.501449, 127.860209, 180, -30, 2500);
-		viewPointsArray[8] = new viewPoints("水納島",26.643616,127.816667, 0, -30, 1000);
-		viewPointsArray[9] = new viewPoints("瀬底島", 26.643470, 127.863693, 270, -20, 2500);
-		viewPointsArray[10] = new viewPoints("伊江ビーチ", 26.709359, 127.82509, 0, -30, 1500);
-		viewPointsArray[11] = new viewPoints("本部半島北岸", 26.699689, 127.903090, 0, -89, 8000);
-    viewPointsArray[12] = new viewPoints("奥港付近", 26.848272, 128.284049, 0, -89, 5000);
-    viewPointsArray[13] = new viewPoints("国頭村美作付近", 26.709120, 128.292160, 100, -45, 5000);
-    viewPointsArray[14] = new viewPoints("伊計島", 26.391447, 127.999949, 270, -20, 2000);
-    viewPointsArray[15] = new viewPoints("宮城島", 26.370225, 127.990208, 270, -50, 5000);
-		viewPointsArray[16] = new viewPoints("那覇空港", 26.206, 127.646, 0, -5, 7000);
-		viewPointsArray[17] = new viewPoints("池間島", 24.931917, 125.241909, 0, -5, 1000);
-		viewPointsArray[1] = new viewPoints("ナガンヌ島", 26.266463, 127.543748, 0, -18, 1000);
-		viewPointsArray[1] = new viewPoints("ナガンヌ島", 26.266463, 127.543748, 0, -18, 1000);
-		viewPointsArray[1] = new viewPoints("ナガンヌ島", 26.266463, 127.543748, 0, -18, 1000);
-		viewPointsArray[1] = new viewPoints("ナガンヌ島", 26.266463, 127.543748, 0, -18, 1000);
-		viewPointsArray[1] = new viewPoints("ナガンヌ島", 26.266463, 127.543748, 0, -18, 1000);
-		viewPointsArray[1] = new viewPoints("ナガンヌ島", 26.266463, 127.543748, 0, -18, 1000);
-		viewPointsArray[1] = new viewPoints("ナガンヌ島", 26.266463, 127.543748, 0, -18, 1000);
+		viewPointsArray[3] = new viewPoints("名城ビーチ", 26.100927 , 127.659007, 100, -90, 4500);
+		viewPointsArray[4] = new viewPoints("宮城海岸", 26.330796,  127.743229, 0, -90, 2000);
+		viewPointsArray[5] = new viewPoints("残波岬", 26.440704 , 127.712136, 0, -90, 5000);
+		viewPointsArray[6] = new viewPoints("真栄田岬", 26.424095, 127.745034, 200, -90, 6000);
+		viewPointsArray[7] = new viewPoints("万座毛付近", 26.501449, 127.860209, 180, -90, 4000);
+		viewPointsArray[8] = new viewPoints("水納島",26.643616,127.816667, 0, -90, 5500);
+		viewPointsArray[9] = new viewPoints("瀬底島", 26.643470, 127.863693, 270, -90, 5000);
+		viewPointsArray[10] = new viewPoints("伊江ビーチ", 26.709359, 127.82509, 0, -90, 5000);
+		viewPointsArray[11] = new viewPoints("本部半島北岸", 26.699689, 127.903090, 0, -90, 8000);
+    viewPointsArray[12] = new viewPoints("奥港付近", 26.848272, 128.284049, 0, -90, 5000);
+    viewPointsArray[13] = new viewPoints("国頭村美作付近", 26.709120, 128.292160, 100, -90, 5000);
+    viewPointsArray[14] = new viewPoints("伊計島", 26.391447, 127.999949, 270, -90, 4000);
+    viewPointsArray[15] = new viewPoints("宮城島", 26.370225, 127.990208, 270, -90, 4000);
+		viewPointsArray[16] = new viewPoints("那覇空港", 26.206, 127.646, 0, -90, 7000);
+		viewPointsArray[17] = new viewPoints("吉野海岸", 24.748698, 125.442441, 0, -90, 4000);
+		viewPointsArray[18] = new viewPoints("池間島", 24.938431, 125.242035, 0, -90, 5000);
+		viewPointsArray[19] = new viewPoints("明石海岸", 24.545918, 124.304087, 0, -70, 7000);
+		viewPointsArray[20] = new viewPoints("米原ビーチ", 24.452804, 124.184994, 0, -90, 3000);
+		viewPointsArray[21] = new viewPoints("吉原海岸", 24.451946, 124.157503, 0, -90, 3000);
+		viewPointsArray[22] = new viewPoints("御神崎", 24.452268, 124.078796, 0, -90, 3000);
+		viewPointsArray[23] = new viewPoints("黒島", 24.232409, 123.996935, 0, -90, 8000);
+		viewPointsArray[24] = new viewPoints("波照間島", 24.061288, 123.754159, 0, -90, 5000);
 
 
 		//視点メニューを作成
@@ -254,7 +254,7 @@
 
 		function landing() {
 			//視点を移動：視点番号，デュレーション
-			changeViewPoint(1, 3);
+			changeViewPoint(0, 3);
 			//ローディングGIFを表示
 			setTimeout('fadeInOut(blackOutDiv,1)', 3000);
 			setTimeout('loadKml()', 3000);
