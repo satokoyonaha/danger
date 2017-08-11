@@ -76,11 +76,18 @@ button.cesium-infoBox-close {
     opacity: 0.7;
 }
 
-p.titleImage{
+.titleScreen{
+  width: 100%;
+}
+
+.titleImage{
+  width: 100%;
+}
+
+.titleImage img{
   text-align: center;
   display: block;
- margin-left: auto;
- margin-right: auto;
+  width: 100%;
 }
 
 /*ボタン群*/

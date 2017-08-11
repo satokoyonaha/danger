@@ -1,0 +1,2358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>*0811hyouryupoint.kml</name>
+	<Style id="sh_caution3">
+		<IconStyle>
+			<color>b3ffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_caution">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_caution</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_caution2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>541004ff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>540800ff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_caution">
+		<IconStyle>
+			<color>99ffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>541004ff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>540800ff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_caution0">
+		<IconStyle>
+			<color>b3ffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>541004ff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>541004ff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_caution2">
+		<IconStyle>
+			<color>b3ffffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_caution">
+		<IconStyle>
+			<color>99ffffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_caution0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_caution3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_caution0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_caution4">
+		<IconStyle>
+			<color>99ffffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>800800ff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin22</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin20">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>541004ff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_caution4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_caution1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_caution4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_caution1">
+		<IconStyle>
+			<color>b3ffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_caution01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_caution11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_caution10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin110">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>541004ff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_caution1">
+		<IconStyle>
+			<color>99ffffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_caution0">
+		<IconStyle>
+			<color>b3ffffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_caution3">
+		<IconStyle>
+			<color>b3ffffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_caution31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_caution31</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_caution30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin90</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-blank">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-blank</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-blank</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_caution5">
+		<IconStyle>
+			<color>b3ffffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_caution1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_caution0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_caution00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin12">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>541004ff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_caution00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_caution01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_caution11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_caution31">
+		<IconStyle>
+			<color>b3ffffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<color>99ffffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>541004ff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_caution301">
+		<IconStyle>
+			<color>b3ffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin22">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>540800ff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_caution3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_caution3100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_caution300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin20">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>540806ff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>541004ff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_caution2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_caution5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_caution1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_caution2">
+		<IconStyle>
+			<color>99ffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>540806ff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_caution11">
+		<IconStyle>
+			<color>b3ffffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_caution30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_caution30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_caution3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>800800ff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_caution3100">
+		<IconStyle>
+			<color>b3ffffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_caution5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_caution2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_caution5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_caution5">
+		<IconStyle>
+			<color>b3ffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>540800ff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>540800ff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_caution10">
+		<IconStyle>
+			<color>b3ffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin80">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>540800ff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>541004ff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>540800ff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>540806ff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_caution4">
+		<IconStyle>
+			<color>99ffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>541004ff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>540800ff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin80</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin01">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>540800ff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_caution310">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_caution32</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_caution301</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_caution10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_caution4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_caution</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_caution30">
+		<IconStyle>
+			<color>b3ffffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_caution30">
+		<IconStyle>
+			<color>b3ffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin21">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>540800ff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin01</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<color>99ffffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_caution11">
+		<IconStyle>
+			<color>99ffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>541004ff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_wht-blank">
+		<IconStyle>
+			<color>b3ffffff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_caution00">
+		<IconStyle>
+			<color>b3ffffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_caution00">
+		<IconStyle>
+			<color>b3ffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_caution300">
+		<IconStyle>
+			<color>b3ffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin50">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>540806ff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_wht-blank">
+		<IconStyle>
+			<color>b3ffffff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_caution000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_caution00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_caution000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_caution000">
+		<IconStyle>
+			<color>b3ffffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_caution01">
+		<IconStyle>
+			<color>99ffffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin50</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_caution32">
+		<IconStyle>
+			<color>b3ffffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin90">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>541004ff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin30">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>541004ff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>hyouryupoint.kml</name>
+		<open>1</open>
+		<Placemark>
+			<name>奥港付近</name>
+			<description>那覇空港より那覇空港・沖縄自動車道を経由し約２時間３０分。</description>
+			<LookAt>
+				<longitude>128.2847698215403</longitude>
+				<latitude>26.84507913083414</latitude>
+				<altitude>0</altitude>
+				<heading>-16.4732042243617</heading>
+				<tilt>19.83329139531311</tilt>
+				<range>3501.66234042325</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>128.281825,26.84998055555556,4917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>名城ビーチBC</name>
+			<description>那覇空港より約２０分。糸満市に位置する熱帯魚、カニ、ヤドカリなど自然豊かなビーチ。</description>
+			<styleUrl>#msn_ylw-pushpin01</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							127.6508643614154,26.08467734202461,0 127.6504212964797,26.08497304191576,0 127.6502157423583,26.08530157414714,0 127.6498009076553,26.08549122996116,0 127.6493799908983,26.0855008276873,0 127.6491076612883,26.08514241842257,0 127.6489349233545,26.08479020217073,0 127.6487652780774,26.08465388571762,0 127.648790289363,26.08433195936865,0 127.6488153101323,26.08401002766263,0 127.6488263997943,26.0838670423936,0 127.6490176138192,26.08346571076207,0 127.6499594864653,26.08293168976268,0 127.6504058483704,26.08285183832606,0 127.6506465600895,26.08232785432065,0 127.651219184541,26.08139338025052,0 127.6512460298315,26.08130521892018,0 127.6517955565628,26.08092634868549,0 127.6523136284183,26.08043756090665,0 127.6525825720185,26.0798073801503,0 127.6531205509243,26.07931998447729,0 127.6536799091957,26.07881576338377,0 127.6542341011234,26.07863475986616,0 127.6549626775004,26.07826741800622,0 127.6554206224928,26.07829597624952,0 127.6556751932016,26.07836593644762,0 127.6559330322747,26.0786517278819,0 127.6559288703864,26.07870537374959,0 127.6558034667828,26.07929050030603,0 127.6556183389117,26.07987187227006,0 127.6554345996593,26.08043535871156,0 127.6554541058872,26.08095765627104,0 127.6558115699424,26.08124955352748,0 127.6558579186552,26.08168368995686,0 127.655734790113,26.08198143916086,0 127.6557134941339,26.08199807509321,0 127.6553227478602,26.08213535181372,0 127.6551075097694,26.08258905450109,0 127.6547315990789,26.08305067021303,0 127.6545117187781,26.08330644642461,0 127.6541927782825,26.08380755686379,0 127.6539344523749,26.08404295105186,0 127.6534557305785,26.08428251338204,0 127.6531395532723,26.08474786637795,0 127.6530631791601,26.08495870705888,0 127.6526256594867,26.0851828742018,0 127.6522283773541,26.084888497118,0 127.6518681344102,26.08463235788963,0 127.6513250527907,26.08467024637132,0 127.6508643614154,26.08467734202461,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>水納島1</name>
+			<description>那覇空港より沖縄本島にある渡久地港（沖縄自動車道経由）まで約１時間４０分。同港より船で約２０分の場所にある離島に位置するビーチ。赤で囲んだ部分のやや左中央に大きなリーフギャップがあるためそこから流れの速い潮が流出する可能性がある。また、同部分には細かなリーフの切れ目がある。</description>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							127.8085052451151,26.65281840285529,0 127.808542171551,26.6529640946069,0 127.8083480895384,26.65328070663726,0 127.8080339748917,26.65353742879315,0 127.8075986618738,26.65377040031259,0 127.8070835624163,26.65393024791808,0 127.8064753030174,26.65402881050487,0 127.8060291311596,26.65406651521705,0 127.8055441155492,26.654054984644,0 127.8050501341302,26.65394468433017,0 127.804871169658,26.65372371461673,0 127.8048032932147,26.65319637136832,0 127.8048817602452,26.65294071877954,0 127.8050501725965,26.65245615565405,0 127.8054078957686,26.65215531517826,0 127.8059072352478,26.65198662177808,0 127.8063723680994,26.65199830118072,0 127.8071297156718,26.65198610040791,0 127.8076987914781,26.65204608101887,0 127.8081600258771,26.65219028336125,0 127.8083897659284,26.65261248167596,0 127.8085052451151,26.65281840285529,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>大度海岸</name>
+			<description>那覇空港から約４０分。糸満市にあるビーチ。海岸から２００メートル以上、浅瀬の海が続き、水深もあるため、潮が引く際には赤で囲んだ箇所のリーフギャップより流れの速い潮が流出するため注意が必要である。</description>
+			<LookAt>
+				<longitude>127.7084973</longitude>
+				<latitude>26.09060410000001</latitude>
+				<altitude>0</altitude>
+				<heading>3.021526947390341e-14</heading>
+				<tilt>44.99973704641027</tilt>
+				<range>1499.999999999978</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_caution00</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>127.7084973,26.09060410000001,7</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>名城ビーチ</name>
+			<description>那覇空港より約２０分。糸満市に位置する熱帯魚、カニ、ヤドカリなど自然豊かなビーチ。</description>
+			<LookAt>
+				<longitude>127.6590071</longitude>
+				<latitude>26.1009271</latitude>
+				<altitude>0</altitude>
+				<heading>1.590277340731758e-15</heading>
+				<tilt>0</tilt>
+				<range>1000.00000000084</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_caution31</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>127.6590083333333,26.10092777777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>宮城海岸1</name>
+			<description>那覇空港より約１時間。北谷町に位置する宮城海岸。</description>
+			<styleUrl>#msn_ylw-pushpin20</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							127.7411440869478,26.33076086146946,4917 127.7420269388964,26.33086901279778,4917 127.7420083859336,26.33096513261901,4917 127.7410830826293,26.33086601904568,4917 127.7411440869478,26.33076086146946,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>万座ビーチ</name>
+			<description>那覇空港から沖縄自動車道経由約１時間のビーチ。本島北部西海岸、恩納（おんな）村にある景勝地、万座毛付近。</description>
+			<LookAt>
+				<longitude>127.8577685635807</longitude>
+				<latitude>26.50984514328621</latitude>
+				<altitude>0</altitude>
+				<heading>0.02032794998717941</heading>
+				<tilt>16.68708274834986</tilt>
+				<range>3537.200688589808</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_caution000</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>127.8591609359618,26.50590504508829,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>水納島2</name>
+			<description>那覇空港より沖縄本島にある渡久地港（沖縄自動車道経由）まで約１時間４０分。同港より船で約２０分の場所にある離島に位置するビーチ。赤で囲った中央よりやや右に大きなリーフギャップが存在するため、ここから流れの速い潮が流出する可能性がある。</description>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							127.8159712232289,26.65071450740914,4917 127.8171553624191,26.65020562453974,4917 127.8178720050805,26.6499773751805,4917 127.8190088442394,26.64970535747436,4917 127.8198296503537,26.64975058061354,4917 127.8205129309745,26.65006902579453,4917 127.8209543145738,26.65048277114748,4917 127.8212819548581,26.65132595152995,4917 127.8213061385539,26.6521906769645,4917 127.8207111447464,26.65317782080379,4917 127.820430432742,26.65388589585294,4917 127.8199761495681,26.65476531923304,4917 127.8191409196193,26.65572080165461,4917 127.8183599395014,26.65648190317021,4917 127.8177769472348,26.65692407713692,4917 127.8166533361336,26.65725930275567,4917 127.8160397272908,26.65742807872232,4917 127.8148851807761,26.65731560894809,4917 127.8141139872321,26.65709158471887,4917 127.8133913503773,26.65659237223804,4917 127.8126308891147,26.65593718520452,4917 127.812304773635,26.65414297458689,4917 127.8128919528402,26.65292907774736,4917 127.8138252065624,26.65233553936898,4917 127.81504162986,26.6514690697107,4917 127.8159712232289,26.65071450740914,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>真栄田岬</name>
+			<description>那覇空港より国道５８号線を北上し約１００分。青の洞窟として有名でシュノーケリング、ダイビングスポットとなっている。</description>
+			<LookAt>
+				<longitude>127.7723290839152</longitude>
+				<latitude>26.42828785581099</latitude>
+				<altitude>0</altitude>
+				<heading>0.0001110683564494558</heading>
+				<tilt>1.258529353385611</tilt>
+				<range>7620.511236930079</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_caution5</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>127.74605521086,26.42555313596669,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>万座毛</name>
+			<description>那覇空港から沖縄自動車道を経由して約１時間のシュノーケリング、ダイビングスポット。サンゴ礁群や万座毛の洞窟で有名。</description>
+			<LookAt>
+				<longitude>127.8520907693778</longitude>
+				<latitude>26.50500167768553</latitude>
+				<altitude>0</altitude>
+				<heading>0.02554757384636931</heading>
+				<tilt>28.76945512830407</tilt>
+				<range>651.2518908317044</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_caution1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>127.8500480831591,26.50518220167884,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>瀬底島1</name>
+			<description>那覇空港より沖縄自動車道経由で約１時間４０分の本部町瀬底島に位置するビーチ。北東海岸に広い浅瀬があり、複数のリーフギャップが見られることから、沖合に向けて速い流れの潮が発生する可能性がある。</description>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							127.8537878747602,26.6501230647468,4917 127.8545541010669,26.65046977428197,4917 127.855152519903,26.65079525276984,4917 127.8560400731772,26.65125166708392,4917 127.8569777785179,26.65170893345704,4917 127.8578207347881,26.65212340369875,4917 127.8585211884252,26.65238554440608,4917 127.8593185095236,26.65275738940704,4917 127.8603351597834,26.65321749526463,4917 127.8612322154187,26.65365651273174,4917 127.8619367796738,26.65392020426853,4917 127.8632263274629,26.65440466512581,4917 127.8641769456689,26.65477960678411,4917 127.864762847979,26.6550888194816,4917 127.8647884176339,26.65557551583138,4917 127.8645692960834,26.65593009979331,4917 127.8642275071754,26.65624078783161,4917 127.863640552713,26.65630741287843,4917 127.8629557678123,26.65624078183845,4917 127.8622712353457,26.65615197161025,4917 127.8614650132471,26.65599663084058,4917 127.8605123989521,26.6558857320622,4917 127.8599026268618,26.65573056167417,4917 127.8593170720107,26.65564193358528,4917 127.8583182489289,26.65539837867683,4917 127.8572234001735,26.65511085207743,4917 127.8566409908993,26.65488991083684,4917 127.8558888129405,26.65464710004408,4917 127.8551868782374,26.65436045719176,4917 127.8544639429931,26.65394214237104,4917 127.853671094177,26.65343671636031,4917 127.8529751293956,26.65301997735128,4917 127.8524497698162,26.65262584154411,4917 127.8520729045022,26.65214499605879,4917 127.8518211451895,26.6515344094123,4917 127.8517608657072,26.65103401346736,4917 127.8520916305871,26.65036123644021,4917 127.8527982228855,26.65010135035391,4917 127.8533582873186,26.64988499678128,4917 127.8537878747602,26.6501230647468,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>伊計島AB</name>
+			<description>那覇空港より約１時間４０分の伊計島の北海岸に位置するビーチ。浅瀬が長く続いており沖合に向けて流れの速い潮が発生することがある。</description>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							128.0065242478892,26.39537511785225,4917 128.0061646460852,26.39532848290168,4917 128.0056038213064,26.39549198670331,4917 128.0051702170556,26.3956558063618,4917 128.0048401510943,26.39596084870781,4917 128.0048467420535,26.39652687988847,4917 128.0049014498967,26.39678758390558,4917 128.0050853994878,26.39702527639273,4917 128.0053223750496,26.39731139264725,4917 128.0056170996621,26.3979106038852,4917 128.0056264208698,26.39848986977694,4917 128.005314290565,26.39856257703465,4917 128.0051515207149,26.39810328981848,4917 128.0048075779353,26.39762250400745,4917 128.0042851140716,26.39723978625512,4917 128.0038943801349,26.3968824759595,4917 128.0036861039983,26.39657406938334,4917 128.0034271770786,26.3962905645025,4917 128.0033237738362,26.3961491631392,4917 128.0031431456842,26.39584352483411,4917 128.0029630895178,26.39542075893655,4917 128.0027585052619,26.39495442354542,4917 128.0027842093919,26.39460865391885,4917 128.0027843771914,26.39433156931653,4917 128.0026067397924,26.39398650968805,4917 128.0025066295685,26.39332343165975,4917 128.0025330001354,26.39282391811861,4917 128.0031130795697,26.39268816604077,4917 128.0035178052948,26.393050520833,4917 128.0036947640129,26.39307321045578,4917 128.0044273098736,26.3930504528438,4917 128.0048044176184,26.39289168582036,4917 128.0049541486804,26.39275585505739,4917 128.0053515561934,26.39234970648626,4917 128.0056034928167,26.39237219440035,4917 128.0058880686995,26.39280102340964,4917 128.0058963379551,26.39325488058769,4917 128.0055422067754,26.39325490592634,4917 128.0048850804923,26.39330048119369,4917 128.0043806857184,26.39348286275852,4917 128.0039274744866,26.39391757035089,4917 128.0037004829936,26.39423933508678,4917 128.0034464130303,26.39435456630272,4917 128.0036263043889,26.39472430878557,4917 128.004058840679,26.39453919375796,4917 128.0045684418595,26.39451604970006,4917 128.0047978348211,26.39451603533876,4917 128.0051769780122,26.39428529352638,4917 128.0056051553228,26.39400924484015,4917 128.0059794691338,26.39364261447957,4917 128.0061809425185,26.39357403982426,4917 128.0062795084671,26.39343708807623,4917 128.0065242478892,26.39537511785225,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>水納島3</name>
+			<description>那覇空港より沖縄本島にある渡久地港（沖縄自動車道経由）まで約１時間４０分。同港より船で約２０分の場所にある離島に位置するビーチ。赤で囲んだ部分のやや左中央に大きなリーフギャップがあるためそこから流れの速い潮が流出する可能性がある。また、同部分には細かなリーフの切れ目がある。</description>
+			<styleUrl>#msn_ylw-pushpin6</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							127.8134157190004,26.64222330037637,4917 127.8133099048247,26.64183651565331,4917 127.8134474305304,26.64124170569615,4917 127.8137450838981,26.64065605943291,4917 127.8140229128517,26.64024821271408,4917 127.8142966881889,26.63996665641449,4917 127.814754347733,26.63954462402298,4917 127.8151396065369,26.63940271663744,4917 127.8159159483046,26.63918529188581,4917 127.8167491229256,26.63910857617692,4917 127.8172366239679,26.63909327813813,4917 127.8177750122189,26.63901717756652,4917 127.8184228528467,26.63904751718662,4917 127.8194654340329,26.63911048356883,4917 127.820209471938,26.63915527487352,4917 127.8212110148408,26.63943387951907,4917 127.8219786136115,26.63960746527367,4917 127.8226428988106,26.63988122798628,4917 127.8230903235376,26.64007820375699,4917 127.8236453112561,26.64053362028254,4917 127.8239398129534,26.64088173856621,4917 127.8240830105296,26.64127667542144,4917 127.8243151110576,26.64168444623297,4917 127.8243835820629,26.64210549532479,4917 127.8242431121551,26.64286600782156,4917 127.8237686310678,26.64313635649894,4917 127.8232413527877,26.64334802682102,4917 127.8226557968343,26.64341217757368,4917 127.821917785117,26.6433907945301,4917 127.8211825953066,26.64341224022813,4917 127.8205527307083,26.64334813403045,4917 127.8197668484745,26.64311553270447,4917 127.8190293567682,26.64288681708847,4917 127.817868782872,26.64264165772506,4917 127.8172116043942,26.64258107645778,4917 127.816387003315,26.64262150716929,4917 127.8155914706195,26.64268235522582,4917 127.8147383708334,26.64266212824672,4917 127.8141449662382,26.64250088954902,4917 127.8137690214901,26.64240109444494,4917 127.8134157190004,26.64222330037637,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>瀬底島2</name>
+			<description>那覇空港より沖縄自動車道経由で約１時間４０分の本部町瀬底島に位置するビーチ。北東海岸に広い浅瀬があり、複数のリーフギャップが見られることから、沖合に向けて速い流れの潮が発生することがある。</description>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							127.8541773911381,26.64479195158397,4917 127.8542419727582,26.64523120314877,4917 127.85391545371,26.64570095048477,4917 127.8533204774957,26.64586730755221,4917 127.8527795833256,26.64579038426841,4917 127.8524007790436,26.64538281906822,4917 127.8522902931157,26.64495439723998,4917 127.8524568145206,26.64451824319375,4917 127.8529611023158,26.64412373766304,4917 127.853550417473,26.64436989828058,4917 127.8541773911381,26.64479195158397,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>水納島</name>
+			<description>那覇空港より沖縄本島にある渡久地港（沖縄自動車道経由）まで約１時間４０分。同港より船で約２０分の場所にある離島。スノケーリングや遊泳客にも人気なビーチ。</description>
+			<LookAt>
+				<longitude>127.8444342106693</longitude>
+				<latitude>26.63923944839934</latitude>
+				<altitude>0</altitude>
+				<heading>0.2547219851755908</heading>
+				<tilt>3.287564188541207</tilt>
+				<range>9801.369361780045</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_caution310</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>127.8166873186189,26.64846944444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>大度海岸</name>
+			<description>那覇空港から約４０分。糸満市にあるビーチ。海岸から２００メートル以上、浅瀬の海が続き、水深もあるため、潮が引く際には赤で囲んだ箇所のリーフギャップより流れの速い潮が流出するため注意が必要である。</description>
+			<styleUrl>#msn_ylw-pushpin9</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							127.698597852091,26.08492234711192,4917 127.6985222289441,26.08502157836897,4917 127.6984359496958,26.08518046139495,4917 127.6983976328353,26.08531872159504,4917 127.6982943406842,26.08549656560203,4917 127.698152928056,26.08567809408906,4917 127.6981021073476,26.08584820530619,4917 127.6980088474641,26.08587453773488,4917 127.6978995860486,26.08574254630021,4917 127.6978446374224,26.08563062082906,4917 127.6978860265239,26.08545609298121,4917 127.6979782569727,26.08535925105526,4917 127.6979776367938,26.08526738685474,4917 127.6980120668267,26.08520810551773,4917 127.698011440875,26.0851162438381,4917 127.6979278019747,26.08501241932193,4917 127.6977765275972,26.08496309298839,4917 127.6976029155662,26.08496255326789,4917 127.698597852091,26.08492234711192,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>瀬底島</name>
+			<description>那覇空港より沖縄自動車道経由で約１時間４０分の本部町瀬底島に位置するビーチ。北東海岸に広い浅瀬があり、複数のリーフギャップが見られることから、沖合に向けて速い流れの潮が発生する可能性がある。</description>
+			<LookAt>
+				<longitude>127.8604198351461</longitude>
+				<latitude>26.6424201949275</latitude>
+				<altitude>0</altitude>
+				<heading>0.007090192634092364</heading>
+				<tilt>9.730322672890962</tilt>
+				<range>4981.357220821359</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_caution310</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>127.864045153985,26.64287712844488,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>伊計島C</name>
+			<description>那覇空港より約１時間４０分の伊計島の北海岸に位置するビーチ。浅瀬が長く続いており沖合に向けて流れの速い潮が発生することがある。このっビーチにあるリーフギャップは周りの水深よりやや深くなっており、干潮時には流れの速い沖合に向けての潮の発生が予想され、注意が必要である。</description>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							128.0007792570405,26.38858432353702,4917 128.0004892435821,26.38831025482812,4917 128.0004086121027,26.38790652044249,4917 128.0002989895295,26.38760273858265,4917 128.000081603796,26.38727530267792,4917 127.9999133473479,26.38689201783643,4917 127.9995852665324,26.38632655761621,4917 127.999434464707,26.38602619004682,4917 127.9994488197064,26.38557856476109,4917 127.9996549321054,26.38518056336533,4917 127.9997072511226,26.38479685797032,4917 127.999719482699,26.3846434737419,4917 128.0000224212788,26.38492662521251,4917 128.0002279093796,26.38536118072293,4917 128.0004692694453,26.38533325586897,4917 128.0006771560054,26.38516839919539,4917 128.000943940709,26.38508375081771,4917 128.0013659730483,26.38525730480314,4917 128.0018333860396,26.3854137950575,4917 128.0022885835616,26.38543420597952,4917 128.0027378081377,26.38555127494031,4917 128.0034235163165,26.38534955090467,4917 128.0034891394365,26.38572085241721,4917 128.0030686472663,26.38583812549008,4917 128.0026680179197,26.3859759946749,4917 128.0022871744104,26.38613457459731,4917 128.0019978360925,26.38621933628645,4917 128.0016255681479,26.38655541108247,4917 128.0015280004372,26.38702364768498,4917 128.0017608020125,26.38715263939978,4917 128.0019371375981,26.38747749567889,4917 128.0019213825948,26.38805422581459,4917 128.0018356412657,26.38835057005036,4917 128.0016960857768,26.38878647240768,4917 128.0014502095957,26.38881575854399,4917 128.0010978812542,26.38877980266695,4917 128.0007792570405,26.38858432353702,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>名城ビーチ1</name>
+			<description>那覇空港より約２０分。糸満市に位置する熱帯魚、カニ、ヤドカリなど自然豊かなビーチ。</description>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							127.6579552965169,26.10901606553146,4917 127.6579583160702,26.10925304488118,4917 127.6578633242144,26.1095293161263,4917 127.6578604120081,26.10974029740312,4917 127.658168776301,26.10969770786638,4917 127.658313877909,26.10952982690328,4917 127.6585245948648,26.1098042094477,4917 127.6586431985491,26.11029409047833,4917 127.6585008755871,26.11101830465286,4917 127.6582636471185,26.11167861206374,4917 127.6580264487726,26.11240278493859,4917 127.6579315491894,26.11289269050477,4917 127.6576706002824,26.11310569648068,4917 127.6571249885514,26.11378731593397,4917 127.6566031032344,26.11421331382046,4917 127.6560811764442,26.11444761707149,4917 127.6555592995312,26.11446893217154,4917 127.6552982784946,26.11446894523516,4917 127.654871161257,26.11468203930416,4917 127.6541592888489,26.11463953416331,4917 127.6533523597916,26.11459707405821,4917 127.6524502040918,26.11427779454561,4917 127.6519986908289,26.11419280176054,4917 127.6515471601355,26.11400128627231,4917 127.651287622992,26.1138729241894,4917 127.6507893303826,26.1137663917446,4917 127.6501961512212,26.11370244162065,4917 127.6496741338196,26.11351067543309,4917 127.6492470952398,26.11287150406447,4917 127.6489149189674,26.11265843870619,4917 127.6488675111399,26.11216841855038,4917 127.6488675609167,26.11157187480102,4917 127.6488676043819,26.1110818673831,4917 127.6489388229645,26.11057053148643,4917 127.6495320794162,26.11003796944938,4917 127.6502439028857,26.10995278927573,4917 127.6511455015275,26.11010199702262,4917 127.651832896022,26.11035760454482,4917 127.6522841804948,26.11057074839141,4917 127.6529252786332,26.11084774428852,4917 127.6533050667708,26.11101819624388,4917 127.6536373402652,26.11101820026922,4917 127.6539221316471,26.11080518193475,4917 127.6540882553247,26.11057086011301,4917 127.6540882499043,26.11033659044719,4917 127.6540882718333,26.11018744193982,4917 127.6541594888019,26.10986792012698,4917 127.6542069578837,26.10963361129328,4917 127.6546578020711,26.10927149869008,4917 127.6553459138852,26.10897336867149,4917 127.6561287852263,26.10884563279914,4917 127.6570539230689,26.10865396757832,4917 127.6576943834317,26.10865399089304,4917 127.6579552965169,26.10901606553146,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>大度海岸B</name>
+			<description>那覇空港から約４０分。糸満市にあるビーチ。海岸から２００メートル以上、浅瀬の海が続き、水深もあるため、潮が引く際には赤で囲んだ箇所のリーフギャップより流れの速い潮が流出するため注意が必要である。</description>
+			<styleUrl>#msn_ylw-pushpin01</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							127.7057654224549,26.08846654781886,4917 127.7057834932824,26.08829855271614,4917 127.7057304799369,26.08812174017545,4917 127.7056487903869,26.0879002855182,4917 127.7055687222512,26.08769978111239,4917 127.7054302854285,26.08750163090459,4917 127.7054223828063,26.0874746463402,4917 127.7054040195817,26.08737832712642,4917 127.7054705957469,26.08728773092539,4917 127.7055478692577,26.08729933873017,4917 127.7056700481133,26.08732725892721,4917 127.7057995493458,26.08740710481832,4917 127.7057671916446,26.08755898301734,4917 127.7057711704867,26.08765262901071,4917 127.7057780762321,26.0877565984395,4917 127.7058364516411,26.08794535274987,4917 127.7058721165305,26.08806067366243,4917 127.7059213483381,26.08815258386841,4917 127.7059785790815,26.08815239797111,4917 127.7060757190574,26.08816235028137,4917 127.7060943608013,26.08827015615661,4917 127.706100477666,26.08833911655311,4917 127.7057654224549,26.08846654781886,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>大度海岸D</name>
+			<description>那覇空港から約４０分。糸満市にあるビーチ。海岸から２００メートル以上、浅瀬の海が続き、水深もあるため、潮が引く際には赤で囲んだ箇所のリーフギャップより流れの速い潮が流出するため注意が必要である。</description>
+			<styleUrl>#msn_ylw-pushpin01</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							127.7118008879897,26.08804322038156,4917 127.7115867062563,26.08792211298744,4917 127.7113279879465,26.08767781098508,4917 127.7112177705858,26.08752061347689,4917 127.7111319461056,26.08735334217452,4917 127.7109950198042,26.08708647174212,4917 127.7109859136771,26.08672507883868,4917 127.7111031050819,26.08655306044987,4917 127.711197378449,26.08633723285858,4917 127.7115421983426,26.08635011886626,4917 127.7116280537508,26.08623220675535,4917 127.7118030962128,26.08611627314194,4917 127.712118212666,26.08615553481273,4917 127.7122586919614,26.08631104241426,4917 127.7125723198895,26.08651442686661,4917 127.7127827771492,26.08646434986558,4917 127.7129936979376,26.08638692175898,4917 127.7133472016726,26.0864383308861,4917 127.7136182454705,26.08638946043364,4917 127.7136686800147,26.086763554986,4917 127.7137621867768,26.08707955438073,4917 127.7137379245098,26.08709002274031,4917 127.7136129717717,26.08733086574716,4917 127.7133950854775,26.08742664171878,4917 127.7131763884605,26.08751973193259,4917 127.7131249604587,26.08779108393107,4917 127.7128632555703,26.08791602180015,4917 127.7126749517072,26.08804403935646,4917 127.7122794015409,26.0882279220926,4917 127.7118008879897,26.08804322038156,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>大度海岸C</name>
+			<description>那覇空港から約４０分。糸満市にあるビーチ。海岸から２００メートル以上、浅瀬の海が続き、水深もあるため、潮が引く際には赤で囲んだ箇所のリーフギャップより流れの速い潮が流出するため注意が必要である。</description>
+			<styleUrl>#msn_ylw-pushpin01</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							127.7078204539969,26.0857552359465,4917 127.7078269302254,26.08590132074593,4917 127.7078197165392,26.08605431843999,4917 127.7078791636842,26.0861673428162,4917 127.7078976254733,26.08622055728997,4917 127.7078895535197,26.08633115191226,4917 127.7079413963298,26.08652769989767,4917 127.7079094500134,26.08666525848599,4917 127.7079205254586,26.08687233860314,4917 127.7079978392238,26.08708844334095,4917 127.7081373539428,26.08739113852633,4917 127.7081214589486,26.08747623119187,4917 127.7080425633443,26.08759161737358,4917 127.7079404981627,26.08769097220082,4917 127.7078344988269,26.08772681384268,4917 127.7076338152497,26.08772463346195,4917 127.7074574691383,26.08768693488448,4917 127.7073196865031,26.08760490022612,4917 127.707071400878,26.08744397358291,4917 127.7069028239567,26.08730491902522,4917 127.7068655167297,26.08726138070697,4917 127.7070428763272,26.08713620459618,4917 127.7072026235737,26.08701143072369,4917 127.7072345620903,26.08693926555689,4917 127.7072414690441,26.08692684031305,4917 127.7072695293563,26.08675322541816,4917 127.7072845760074,26.08647231681927,4917 127.7072928298318,26.08631356210022,4917 127.7072431924029,26.08609894118441,4917 127.7072290352145,26.08595436772884,4917 127.7071682182651,26.0857542376439,4917 127.70716198774,26.0857337343425,4917 127.7071513332034,26.08571454942763,4917 127.7078204539969,26.0857552359465,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>名城ビーチ</name>
+			<description>那覇空港より約２０分。糸満市に位置する熱帯魚、カニ、ヤドカリなど自然豊かなビーチ。</description>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							127.6474566251231,26.0911459525304,5428 127.6477576824202,26.09162985869463,5428 127.6482857498747,26.0919537880701,5428 127.6486003354647,26.09221371371213,5428 127.6490934277129,26.092572063402,5428 127.6493721347863,26.0928662537259,5428 127.6498459221527,26.09286627169549,5428 127.650341372175,26.09325983790428,5428 127.6509805211322,26.09378698412013,5428 127.6517717518318,26.09425048130977,5428 127.6530094385121,26.09464946584383,5428 127.6534814528698,26.09491626804303,5428 127.6543184136383,26.09545198216306,5428 127.654162083358,26.09592296539185,5428 127.6536101626026,26.09578814703451,5428 127.6533973785071,26.09538481542233,5428 127.652668269757,26.09504989605604,5428 127.651241763823,26.09474932344544,5428 127.6501549744642,26.09528405450677,5428 127.6496032605173,26.09615901703527,5428 127.6494671368402,26.09676915514966,5428 127.6481298741837,26.09676926726797,5428 127.6471727177968,26.09659962293432,5428 127.6462229825946,26.09697406968123,5428 127.6474566251231,26.0911459525304,5428 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>真栄田岬</name>
+			<description>那覇空港より国道５８号線を北上し約１００分。青の洞窟として有名でシュノーケリング、ダイビングスポットとなっている。</description>
+			<styleUrl>#msn_ylw-pushpin01</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							127.7464067053103,26.43633659862427,4917 127.7472375444609,26.43573289042193,4917 127.7478861687824,26.43595990754796,4917 127.7487011465047,26.43549656228434,4917 127.7494366620051,26.43475057857028,4917 127.7491111481994,26.43380318155463,4917 127.7489063239007,26.43323611594716,4917 127.7485495874569,26.43266112554436,4917 127.7486715567919,26.43188781398367,4917 127.7487632291824,26.43088730065214,4917 127.7492475009065,26.43059810279165,4917 127.7498382539251,26.43081688123963,4917 127.7497188141294,26.43158607769476,4917 127.7497167537324,26.43218174831857,4917 127.7501842839244,26.432670098423,4917 127.7508681966073,26.4330345725969,4917 127.7517289820537,26.43313382835206,4917 127.752938637857,26.4333468112746,4917 127.7540154139043,26.43461559785142,4917 127.7541440337683,26.43559964874888,4917 127.7542472238686,26.4362593080776,4917 127.7540138349828,26.4372756152585,4917 127.7533753476199,26.43751816557986,4917 127.7525531125905,26.43746738566306,4917 127.7520135880875,26.43649559454298,4917 127.7516694846221,26.43567992787642,4917 127.751224596771,26.43546596070084,4917 127.7508859477314,26.43581818321165,4917 127.7507004289197,26.43618052711716,4917 127.7503485910863,26.43667386323665,4917 127.7501932618447,26.4372746152767,4917 127.7501322421718,26.43797729721049,4917 127.7464067053103,26.43633659862427,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>本部北岸C</name>
+			<description>那覇空港より沖縄自動車道を経由して約2時間の本部町に位置するビーチ。サンゴ群の中に大きなリーフギャップが２つ存在している。それ以外にも狭い水路があるため、流れの早い潮に注意が必要である。</description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							127.9046235183602,26.71236739091763,4917 127.905190934517,26.71171621530589,4917 127.9057236166502,26.71123200372189,4917 127.9060395060814,26.71078778694419,4917 127.9060760378652,26.70999766078857,4917 127.906480279271,26.70996460584185,4917 127.9069210485373,26.70914145787984,4917 127.9072803103318,26.70833929523954,4917 127.9072297925969,26.7076898895326,4917 127.9074652204952,26.70724290839775,4917 127.9079383090532,26.70630104092754,4917 127.9084743239853,26.70632080761502,4917 127.9086920492704,26.70625689210301,4917 127.9092603918111,26.70615794396758,4917 127.9095773255842,26.7056899792584,4917 127.909944288395,26.70472021756973,4917 127.910963799447,26.70473384039632,4917 127.9126309136994,26.70467539015447,4917 127.913523305495,26.70511599168552,4917 127.9143118148334,26.70548080071008,4917 127.914801113592,26.70593051573504,4917 127.9151663641853,26.70615981389926,4917 127.9143145714424,26.70658409192894,4917 127.9137686091319,26.70677981505521,4917 127.913276257792,26.70697751162698,4917 127.9129278588413,26.70696467372995,4917 127.9125258598723,26.70694985743012,4917 127.9121429204337,26.70710362566488,4917 127.9113358560294,26.70772139750279,4917 127.9111584509451,26.70807458585197,4917 127.9109854814964,26.70833201939955,4917 127.9105815191231,26.70894066784803,4917 127.9102433166185,26.70928793677299,4917 127.9098581491153,26.7094895849098,4917 127.9092207044804,26.70992176047985,4917 127.9087305287898,26.71007156286838,4917 127.9084705056206,26.71046968150258,4917 127.9084429485967,26.71106835557907,4917 127.9084142745022,26.71169110702652,4917 127.9084748781326,26.71212525728509,4917 127.9087084070761,26.71230187790399,4917 127.9046235183602,26.71236739091763,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>残波岬</name>
+			<description>那覇空港より国道５８号線経由で約1時間に場所に位置するビーチ。大きく浅瀬が広がっている。干潮時、潮が引く際には岬付近から大量の海水が南へ流出することがある。</description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							127.7129845887683,26.44188662292915,4917 127.7126172287318,26.44172274910082,4917 127.7121211161375,26.44190338159651,4917 127.7116030199052,26.44148376880601,4917 127.7109989857584,26.44130587701852,4917 127.7103003247782,26.44105309074704,4917 127.7099423952124,26.4412054462599,4917 127.7094004833325,26.44044190708064,4917 127.7095305419423,26.43949077570501,4917 127.7088805429126,26.43890927559701,4917 127.7079234706221,26.43871536371609,4917 127.7070548680524,26.43809444481493,4917 127.7063014368853,26.43768451503921,4917 127.7056747386296,26.43761211032844,4917 127.705067484607,26.4376404746466,4917 127.7051781883593,26.43685916379903,4917 127.7048611644817,26.43606203234458,4917 127.7047996922034,26.43535482279529,4917 127.7049008832002,26.43466641520598,4917 127.7043645666426,26.43453901242755,4917 127.7045041296635,26.43404865239979,4917 127.7047523552062,26.4334772143638,4917 127.7046295268367,26.4323745002114,4917 127.7045626036842,26.43156312645613,4917 127.7046337919028,26.43109589211598,4917 127.7045853329274,26.43039129694332,4917 127.7049484275211,26.42926396514287,4917 127.7051176031687,26.42856787072366,4917 127.7051407599774,26.42781788052109,4917 127.7055151695434,26.42737309633951,4917 127.7061166026097,26.4274377145954,4917 127.7068203475568,26.42742649964771,4917 127.7070947162214,26.42810491379511,4917 127.7070499525303,26.42843598997397,4917 127.7071552133321,26.42903185665491,4917 127.7070681273435,26.42945149459294,4917 127.7072686269306,26.43029531129024,4917 127.7069242557933,26.43123618825606,4917 127.7067950961336,26.43196865179087,4917 127.7066165834983,26.43258753886441,4917 127.7065642326051,26.43297792204837,4917 127.7063785617672,26.4336390763955,4917 127.7066182198559,26.43427243029934,4917 127.7067309169618,26.43490480349934,4917 127.7068694194019,26.43560942033025,4917 127.7074046698174,26.43580153787496,4917 127.7080094305724,26.43625563045306,4917 127.7088993662149,26.43656882222803,4917 127.7098559798608,26.43691982583793,4917 127.7107874751065,26.4372381458071,4917 127.7111535083912,26.43722827384989,4917 127.7119126305365,26.43727544883131,4917 127.7127989801784,26.43739578941935,4917 127.7125747263622,26.438170818978,4917 127.7121600848441,26.4383440032065,4917 127.7117726395545,26.43898807308166,4917 127.7114118436006,26.4396729759731,4917 127.7114711820776,26.44018232345514,4917 127.712114459616,26.44065624974018,4917 127.7126133858588,26.44082848807184,4917 127.7127705767112,26.44102039350836,4917 127.7129845887683,26.44188662292915,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>万座毛1</name>
+			<description>那覇空港から沖縄自動車道を経由して約１時間のシュノーケリング、ダイビングスポット。サンゴ礁群や万座毛の洞窟で有名。</description>
+			<styleUrl>#msn_ylw-pushpin01</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							127.838762869651,26.49508742745031,4917 127.8391341719971,26.49482044813475,4917 127.8390903945924,26.49424757970835,4917 127.8389689891566,26.49408191620986,4917 127.8390932929224,26.49351219735516,4917 127.8393594135948,26.49312211769344,4917 127.8397341956323,26.49299285212452,4917 127.8401749244732,26.49301928031065,4917 127.8405806297055,26.49283933606194,4917 127.8408466649712,26.49323927136297,4917 127.8410881965257,26.49333106969928,4917 127.8412953276644,26.49351527274228,4917 127.8411684765765,26.49400288995935,4917 127.8409493412834,26.49425311962805,4917 127.8404716618538,26.49452254112978,4917 127.8403390821735,26.49472476005369,4917 127.8402982016071,26.49514703467029,4917 127.8402355343164,26.49547729195055,4917 127.8401716718749,26.49584702294441,4917 127.8399801409391,26.49604742958302,4917 127.8396653658129,26.49599124080245,4917 127.8393857286882,26.49616973217746,4917 127.8391544200991,26.49643166792736,4917 127.8389800292044,26.49665924181436,4917 127.838762869651,26.49508742745031,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>万座毛B</name>
+			<description>那覇空港から沖縄自動車道を経由して約１時間のシュノーケリング、ダイビングスポット。サンゴ礁群や万座毛の洞窟で有名。</description>
+			<styleUrl>#msn_ylw-pushpin01</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							127.8573711946778,26.51129899680207,4917 127.8575066570032,26.51139016103822,4917 127.8577016985705,26.51132215955942,4917 127.8579645036318,26.51127698276146,4917 127.857964787529,26.5111025804319,4917 127.8581342987505,26.51109520835245,4917 127.8581599903142,26.51092841687109,4917 127.8582956136138,26.51091341689875,4917 127.8584568890065,26.51075438293413,4917 127.8586184167644,26.51043611059491,4917 127.8586525718248,26.51027691758436,4917 127.8587798573152,26.51017091940802,4917 127.8588309768783,26.50999658762683,4917 127.8590686346643,26.50976940726171,4917 127.8592298111593,26.50970896310855,4917 127.8592900909177,26.50950449111719,4917 127.859486379568,26.50931554176462,4917 127.8596033651379,26.50922415996335,4917 127.8596290030947,26.50908770804065,4917 127.8596549399381,26.50876169263502,4917 127.8598420298742,26.50833731591593,4917 127.8600540959307,26.50819353760181,4917 127.8603339520996,26.50804983556655,4917 127.8606474726604,26.50805025789685,4917 127.8611982337835,26.50804339619431,4917 127.8614946486455,26.50813477806372,4917 127.8615367474025,26.50830163762666,4917 127.8616297122925,26.50845339915044,4917 127.8616973169028,26.5085672154276,4917 127.8616716133391,26.50874915003191,4917 127.8615781411035,26.50892341394844,4917 127.8614678545393,26.50901425585669,4917 127.8612050805757,26.509082156648,4917 127.8610694137616,26.50914264196566,4917 127.8609929896455,26.50924869215607,4917 127.8609166433293,26.50930166780594,4917 127.860975730195,26.50944580567872,4917 127.8610095753165,26.5094761776715,4917 127.8611027568294,26.50949146085388,4917 127.8612043047202,26.50957499492056,4917 127.8612124596264,26.50977972275424,4917 127.8608989139626,26.50980206820022,4917 127.8606360283434,26.50993822076297,4917 127.86050885235,26.50998354934696,4917 127.8604493908033,26.51007446231902,4917 127.8601866138048,26.51013478976116,4917 127.8600168505309,26.51031655353804,4917 127.8599996868379,26.51045300917322,4917 127.8598723500554,26.51059691840957,4917 127.8598806794351,26.51068791663829,4917 127.8599312622256,26.51085479331837,4917 127.8599226322535,26.51095335352724,4917 127.8598712221812,26.5113096687126,4917 127.8597948333765,26.51138540104945,4917 127.8597778018268,26.51143845717847,4917 127.8597860078628,26.51160527902912,4917 127.8597180699357,26.51169618697605,4917 127.8597772577717,26.51177966683687,4917 127.8598619162643,26.51183284479067,4917 127.8596412499666,26.51204488999531,4917 127.8573711946778,26.51129899680207,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>万座ビーチ</name>
+			<description>那覇空港から沖縄自動車道経由約１時間のビーチ。本島北部西海岸、恩納（おんな）村にある景勝地、万座毛付近。</description>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							127.8565218536545,26.50609023900497,4917 127.8564662592277,26.50578361073485,4917 127.8564046401028,26.50537421097982,4917 127.8563595795045,26.50510725348726,4917 127.8561534327461,26.5048728904055,4917 127.8561366898798,26.50487188915243,4917 127.8558373071178,26.50469732038152,4917 127.8552604167551,26.50452574980747,4917 127.8550544161444,26.50451343237694,4917 127.8550274082,26.50483193858017,4917 127.8549274095523,26.50492329071943,4917 127.8549050956104,26.50505632217092,4917 127.8549050874038,26.50521094218819,4917 127.8547950835854,26.50560696415188,4917 127.8547693416105,26.50575959526455,4917 127.8542664757007,26.50629916131872,4917 127.8541272410026,26.50668928096891,4917 127.8537884473203,26.5068978152462,4917 127.8534100984838,26.50718795402075,4917 127.8533033683346,26.50731199679513,4917 127.8529752021699,26.50763224111941,4917 127.8528261078507,26.50771890598904,4917 127.8525864263971,26.50770461286865,4917 127.852239536146,26.50766475471035,4917 127.851878499981,26.50768153202957,4917 127.85168437153,26.50755520160217,4917 127.8514798332178,26.50735338442095,4917 127.8513207706256,26.50728739621334,4917 127.851136030257,26.50725758063227,4917 127.8511043935995,26.5072556928266,4917 127.850625493454,26.50713346064908,4917 127.8504945318115,26.50708832309993,4917 127.8504268291656,26.50704704510717,4917 127.850364830738,26.50698762756163,4917 127.8503389705411,26.5069675509688,4917 127.85019002162,26.50682947356081,4917 127.8501600048713,26.5067726017964,4917 127.8501158459241,26.50666033462434,4917 127.8499477210035,26.50654135160357,4917 127.8500987707792,26.50651420758057,4917 127.8501763419343,26.50651883790298,4917 127.8502904741421,26.50650759796406,4917 127.8503534780256,26.50645731141798,4917 127.8508447102903,26.50623663909999,4917 127.8514178690981,26.50544052701578,4917 127.851681433835,26.50515516426253,4917 127.8516998313687,26.50509006196929,4917 127.8524381732805,26.50429731926516,4917 127.8528112071942,26.50410148109789,4917 127.8531939504272,26.50344263256917,4917 127.8534608094589,26.50310692565616,4917 127.8535128448394,26.50306660779256,4917 127.8535960972977,26.50307158736707,4917 127.8539656086963,26.50299283125798,4917 127.8539794352488,26.50299366153656,4917 127.8541899842843,26.50299192481179,4917 127.8548230339536,26.50304413390603,4917 127.8548783519626,26.5030474421644,4917 127.8549198399074,26.50304992320234,4917 127.8552723246515,26.50318630055563,4917 127.8553556098966,26.50319128092411,4917 127.8554363466529,26.50321058243505,4917 127.8566465021791,26.5034723291751,4917 127.8567722437393,26.50347984832171,4917 127.8568103213398,26.50351146533248,4917 127.8568764670224,26.50354481704754,4917 127.8569287262682,26.50357739324229,4917 127.8577642315936,26.5041062276061,4917 127.85803230736,26.50430563533974,4917 127.8581622426032,26.50446784317334,4917 127.8582684321817,26.50458259002586,4917 127.8565218536545,26.50609023900497,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>米原ビーチ</name>
+			<description>石垣空港から約３０分。シュノーケリングが盛んで、リーフカレントが原因と思われる事故が多いビーチでもある。強風の日や高波の場合、満潮でもリーフカレントが発生する恐れがある。</description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							124.1848160787138,24.45867857215875,4917 124.1850893574669,24.45849610541035,4917 124.1853808535206,24.45829705681858,4917 124.1855265944319,24.45786590173751,4917 124.1856723301274,24.45753424476957,4917 124.1858362818074,24.45715283742518,4917 124.1861824090356,24.45711967040202,4917 124.1866742733618,24.45721916422825,4917 124.1868928806037,24.4572191629424,4917 124.1872390024138,24.45721915702505,4917 124.187548212248,24.45721792181745,4917 124.1876027358219,24.45723422585225,4917 124.188312073037,24.45756416797951,4917 124.1888225301694,24.45773104922303,4917 124.1889324323035,24.45793094696774,4917 124.1890421149813,24.45811393518377,4917 124.1890426145645,24.45877800784172,4917 124.1890244309053,24.45902680018657,4917 124.1890244973211,24.45929224559478,4917 124.1890245475739,24.45949133674502,4917 124.1889881761139,24.45974022156692,4917 124.1889335603427,24.45993931298664,4917 124.1889335880753,24.46007204126315,4917 124.1848160787138,24.45867857215875,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>吉原海岸</name>
+			<description>新石垣空港より車で約３０分の場所に位置するビーチ。ビーチは河口となっているため、ビーチの海水が同ギャップより集中し流れが発生する。雨の日は注意が必要である。</description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							124.1610888773377,24.4573544045525,4917 124.161403105563,24.4568696448665,4917 124.1616000153002,24.45556952760003,4917 124.161920398598,24.45492821695439,4917 124.1621124323917,24.45412621942119,4917 124.1620168829803,24.45353051037715,4917 124.1617686283228,24.45274157829101,4917 124.1614967652113,24.45240696553126,4917 124.1621359437115,24.45237900085369,4917 124.1626401942119,24.45238112127735,4917 124.1632565761281,24.45225010173334,4917 124.1634517291883,24.45234893680977,4917 124.1638799707426,24.45248281554729,4917 124.1638011152795,24.45326748937026,4917 124.1637524034407,24.45412640864178,4917 124.1638536037407,24.45476079112128,4917 124.1641008818373,24.45526561797812,4917 124.1641406811138,24.45580806239681,4917 124.1641168377133,24.45625191183812,4917 124.1641494196226,24.45694036752196,4917 124.1641476966152,24.45763455046303,4917 124.1643155283426,24.4577741761031,4917 124.1646932466119,24.45865281893557,4917 124.1649956253634,24.45897169837276,4917 124.1654517000889,24.45904277083688,4917 124.1660426118804,24.45929199549834,4917 124.1657579770131,24.45932764682285,4917 124.165262326178,24.45932762150482,4917 124.1646941403664,24.45936326814712,4917 124.1640735644966,24.45904270134931,4917 124.1637710792915,24.45875890547333,4917 124.1633661639737,24.45844092276225,4917 124.1628777300911,24.45837041720061,4917 124.1624906243263,24.45837066566622,4917 124.1622445902954,24.45837027590555,4917 124.1619985159354,24.45836997592685,4917 124.1617328179211,24.45865240857277,4917 124.1612999019206,24.45879373233976,4917 124.1607602683422,24.45893525011184,4917 124.1610888773377,24.4573544045525,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>奥港3</name>
+			<description>那覇空港から沖縄自動車道を利用して約2時間半。
+強い流れで流された事故が発生している。海岸付近までリーフギャップが延びており、遊泳には注意が必要。</description>
+			<styleUrl>#msn_ylw-pushpin01</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							128.2783658249058,26.85789363446524,4917 128.2783274487061,26.85775552758431,4917 128.2782949907858,26.85763552664003,4917 128.2782219460521,26.85752608649672,4917 128.2781682842204,26.85744484892464,4917 128.2780920505654,26.85721685658149,4917 128.278021343205,26.8570886728753,4917 128.2779669660522,26.85700006475372,4917 128.2779687865842,26.85693310088895,4917 128.2779855024002,26.85689097281249,4917 128.2780512627546,26.85679679124909,4917 128.2781140934361,26.85684390999725,4917 128.2781646981485,26.85693652269995,4917 128.2782452909142,26.85703795388108,4917 128.2782626603446,26.85717397252155,4917 128.2783102084022,26.85727795833998,4917 128.2784012063822,26.85740086122773,4917 128.2783975643474,26.85753478977374,4917 128.2784016623052,26.8576198586708,4917 128.2784524623825,26.85767162041826,4917 128.2784903190345,26.85776150580251,4917 128.2785352001356,26.85779516193967,4917 128.2785725382332,26.85783682560558,4917 128.2786023291985,26.85788649729999,4917 128.2783658249058,26.85789363446524,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>伊原間明石海岸1</name>
+			<description>石垣空港から約40分。5カ所のリーフギャップがある。
+奥のリーフギャプは大きく、干潮時に海水が集中して流れ込み、強い流れが発生する可能性がある。
+手前4つも流れが速くなることが予想される。</description>
+			<styleUrl>#msn_ylw-pushpin01</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							124.3349773218609,24.56107276622566,4917 124.3352037783287,24.56214846343905,4917 124.3350910709075,24.5633121611756,4917 124.3344509667555,24.56384454238934,4917 124.3336519790987,24.56363367030913,4917 124.3324875401842,24.56348390911398,4917 124.3318435310381,24.56353345611378,4917 124.3304204528089,24.56355073815359,4917 124.3292900017519,24.56385936988229,4917 124.3283909854003,24.56344134191533,4917 124.3302570126991,24.56290932221408,4917 124.3315985897408,24.56227925637364,4917 124.3328439926944,24.56134055215981,4917 124.3332004145588,24.56089831004181,4917 124.333905799862,24.56016582752185,4917 124.3342097264528,24.55908708191112,4917 124.3348259407691,24.55789440468459,4917 124.3349773218609,24.56107276622566,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>明石海岸3</name>
+			<description>石垣空港から約40分。5カ所のリーフギャップがある。
+奥のリーフギャプは大きく、干潮時に海水が集中して流れ込み、強い流れが発生する可能性がある。
+手前4つも流れが速くなることが予想される。</description>
+			<styleUrl>#msn_ylw-pushpin01</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							124.3221648690847,24.5519994046611,5428 124.3216919103613,24.55243858096009,5428 124.3211668010293,24.55281806184069,5428 124.3204397963802,24.55290513268505,5428 124.3200679641759,24.55254079948302,5428 124.3200369105256,24.55207628752532,5428 124.3207000304475,24.55154838576817,5428 124.3215456997739,24.55122941528,5428 124.3220160134713,24.55152260661569,5428 124.3221648690847,24.5519994046611,5428 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>明石海岸2</name>
+			<description>石垣空港から約40分。5カ所のリーフギャップがある。
+奥のリーフギャプは大きく、干潮時に海水が集中して流れ込み、強い流れが発生する可能性がある。
+手前4つも流れが速くなることが予想される。</description>
+			<styleUrl>#msn_ylw-pushpin01</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							124.3277693816668,24.55577657933496,4917 124.3269529916063,24.55629332436153,4917 124.3271925516752,24.55717691364991,4917 124.3275535713511,24.55812761292082,4917 124.3269765997717,24.55871641757501,4917 124.3264276969284,24.55862799369814,4917 124.3258358162035,24.55814235010811,4917 124.3257745613281,24.55743533033205,4917 124.324902471582,24.55649018669879,4917 124.3255604021691,24.55535300064877,4917 124.3259797347633,24.55479005465956,4917 124.3263625416661,24.55436466904857,4917 124.3277693816668,24.55577657933496,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>明石海岸4</name>
+			<description>石垣空港から約40分。5カ所のリーフギャップがある。
+奥のリーフギャプは大きく、干潮時に海水が集中して流れ込み、強い流れが発生する可能性がある。
+手前4つも流れが速くなることが予想される。</description>
+			<styleUrl>#msn_ylw-pushpin01</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							124.321344147001,24.54903755050355,4917 124.3200583286686,24.5497720557259,4917 124.3190283920032,24.55037034932406,4917 124.3183073095207,24.55064797969673,4917 124.3174540715856,24.55126462151445,4917 124.3170131036179,24.55192417469765,4917 124.3165208769086,24.55227990234235,4917 124.3164898231442,24.5518154050016,4917 124.315710778241,24.55184280493306,4917 124.3150495303107,24.55188245580759,4917 124.3150521455351,24.55115013660743,4917 124.3151927915347,24.55026936173121,4917 124.31410759757,24.5498849985357,4917 124.3142927613299,24.54936160755746,4917 124.3152569455039,24.54881080529654,4917 124.3160175450775,24.54845585825554,4917 124.316659505612,24.5483327472107,4917 124.3178660737345,24.5477528637784,4917 124.3188748790908,24.54755936907829,4917 124.3198711404005,24.54722888260938,4917 124.320218668662,24.54707510687055,4917 124.321344147001,24.54903755050355,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>御神崎</name>
+			<description>石垣島の西にある。石垣空港からは約40分。
+リーフの形は複雑で、気象や海の条件によって流れが速くなる恐れがある。</description>
+			<styleUrl>#msn_ylw-pushpin01</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							124.090620076764,24.45348158102453,4917 124.0905767427556,24.45375450508541,4917 124.0904197452786,24.45380480475687,4917 124.0902833342496,24.45433788113315,4917 124.0901117180067,24.45435203226731,4917 124.0899489292274,24.45438039635794,4917 124.0899337894468,24.4543882874826,4917 124.0899040151926,24.45441134530284,4917 124.0898135563318,24.4544660472573,4917 124.089630841665,24.45443687083725,4917 124.0894823718483,24.4543263251564,4917 124.0892946999925,24.4543338409004,4917 124.0890234895887,24.4542503734785,4917 124.0889154820209,24.45399497800107,4917 124.0888086557501,24.45389168174079,4917 124.088612462758,24.45385661342814,4917 124.0885858955556,24.45363685264482,4917 124.088691168535,24.4534275278693,4917 124.0886915265394,24.45328678520109,4917 124.0887261428312,24.45306859046995,4917 124.0888096707698,24.45291234296225,4917 124.088965128773,24.45270583582501,4917 124.0892518017659,24.45257817497983,4917 124.089541594206,24.45269651826409,4917 124.0895887273258,24.45271523121448,4917 124.0898549722511,24.45272516949034,4917 124.0901445478974,24.45283059069579,4917 124.0903494327928,24.45301601569688,4917 124.0905460147121,24.45318193280361,4917 124.0906500814474,24.45339538485279,4917 124.090620076764,24.45348158102453,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>本部北岸C</name>
+			<description>那覇空港より沖縄自動車道を経由して約2時間の本部町に位置するビーチ。流れの早潮の発生に注意が必要である。</description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							127.9247039408277,26.71168964405817,4917 127.924832879195,26.71142757380454,4917 127.9248235674408,26.71113257237326,4917 127.9247854790722,26.71064100224638,4917 127.9247678423244,26.71008987887035,4917 127.9248712122496,26.70984166197103,4917 127.9250639647554,26.70963153471482,4917 127.9251566435015,26.70973280931415,4917 127.9251665298214,26.70999359278083,4917 127.9252030582533,26.71036478701994,4917 127.9252840872394,26.71071449096105,4917 127.9252032833293,26.71096779542938,4917 127.9250733051419,26.71113608090043,4917 127.925079708475,26.71131732647509,4917 127.9247039408277,26.71168964405817,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>明石海岸5</name>
+			<description>石垣空港から約40分。5カ所のリーフギャップがある。
+奥のリーフギャプは大きく、干潮時に海水が集中して流れ込み、強い流れが発生する可能性がある。
+手前4つも流れが速くなることが予想される。</description>
+			<styleUrl>#msn_ylw-pushpin01</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							124.3188004889755,24.54459365787869,4917 124.3173583113792,24.54514916547349,4917 124.3166102796315,24.54564115338657,4917 124.316065901255,24.54593726745791,4917 124.3152666286136,24.54612541674106,4917 124.3148526293935,24.54657075412727,4917 124.3141374660888,24.54703900905725,4917 124.3135148890944,24.54724553184477,4917 124.3135099042617,24.54681084294741,4917 124.3132761313356,24.5462980880101,4917 124.3138154972103,24.54556730661193,4917 124.3147922863909,24.54515340813899,4917 124.3152962145963,24.5451787345844,4917 124.3158783853324,24.54529359988616,4917 124.3161611160326,24.54494310438951,4917 124.3167518106184,24.54451612048914,4917 124.3173096962027,24.54411287388335,4917 124.3177691061687,24.5437807327468,4917 124.3188004889755,24.54459365787869,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>本部北岸E</name>
+			<description>那覇空港より沖縄自動車道を経由して約2時間の本部町に位置するビーチ。流れの早潮の発生に注意が必要である。</description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							127.9297876447367,26.71039053773068,4917 127.9301278785324,26.71015688524529,4917 127.9306444070639,26.71004227704956,4917 127.9309067140036,26.70989125709896,4917 127.9309732204273,26.7097003335955,4917 127.9311320276748,26.70913870304411,4917 127.9310586312876,26.70885615240531,4917 127.9309870743259,26.7085944538001,4917 127.9311045186424,26.70867420670598,4917 127.9311655612173,26.70843942655808,4917 127.9312989074164,26.70788910167375,4917 127.9313779410355,26.70824764589415,4917 127.9313904929225,26.70843983358448,4917 127.9314511341209,26.70879032672061,4917 127.931613789026,26.70895733852069,4917 127.9318334840364,26.70885063533137,4917 127.9318682298434,26.70906425950406,4917 127.9319059721123,26.70931607597903,4917 127.9321165669215,26.71006113751592,4917 127.9321355171815,26.71030581579749,4917 127.9321457938776,26.71043857616717,4917 127.9322699611849,26.71052507875792,4917 127.9297876447367,26.71039053773068,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>本部北岸</name>
+			<description>那覇空港より沖縄自動車道を経由して約2時間の本部町に位置するビーチ。サンゴ群の中に大きなリーフギャップが2つ存在している。それ以外にも狭い水路があるため、流れの早い潮に注意が必要である。</description>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							127.890604843089,26.71006073409631,4917 127.8909700917699,26.70983819293373,4917 127.8912626832672,26.70958905365329,4917 127.8915371751915,26.70924990177571,4917 127.8918514856955,26.70871307312419,4917 127.8924413410653,26.70848183950677,4917 127.8927984885542,26.70803652904914,4917 127.8928948231347,26.7074198930465,4917 127.8931564949948,26.7065909326509,4917 127.8935005423299,26.70598923632313,4917 127.8940589043827,26.70584503812422,4917 127.8945000743432,26.70560486658687,4917 127.8948702677059,26.70531593973162,4917 127.8954236043447,26.70523813211587,4917 127.8959852791544,26.70504968350484,4917 127.8962296521688,26.70510886244565,4917 127.8967893717622,26.70527594811549,4917 127.8970304053866,26.70537937712502,4917 127.8973490860901,26.70544302444428,4917 127.8976365929109,26.70526027990141,4917 127.8978993266704,26.70507604416044,4917 127.8983835916763,26.70459395101629,4917 127.8984762651198,26.70435501846345,4917 127.8984651212279,26.70384309115014,4917 127.8985202079549,26.70311286431353,4917 127.8986379203553,26.70254200504534,4917 127.8991925991394,26.70277546921196,4917 127.8991526106845,26.70330705003662,4917 127.8990381665242,26.70383315511046,4917 127.8994606564763,26.70416979686781,4917 127.9003951942525,26.70431508458865,4917 127.900903701325,26.70450119229257,4917 127.9012916642603,26.70463568976138,4917 127.9017375144289,26.70466252889312,4917 127.9019523576462,26.70445318079315,4917 127.9023948602015,26.70452426792283,4917 127.9027875647732,26.70492577859392,4917 127.9030878713695,26.70523281165645,4917 127.9033353009932,26.70558111671365,4917 127.9032473849194,26.70608706639956,4917 127.9026643413542,26.706229808666,4917 127.9023175721955,26.70620894011693,4917 127.9018469522755,26.70618061607453,4917 127.9016568806612,26.70639145511539,4917 127.9014899072166,26.70662591162074,4917 127.9014451128051,26.70688994414774,4917 127.9013260056753,26.70714951229361,4917 127.9013076503997,26.70739291498505,4917 127.9013271448036,26.70779419189788,4917 127.9010229676476,26.70819821478319,4917 127.9006826006529,26.70842223808316,4917 127.9001540818709,26.70850157223007,4917 127.8999063797439,26.70848666440104,4917 127.8993188254749,26.70802897285401,4917 127.899039939065,26.70776767640283,4917 127.8982820619226,26.70758867958059,4917 127.897572057365,26.70743478907828,4917 127.8971292443431,26.70769710802084,4917 127.8968417195271,26.70787984986078,4917 127.8966549598311,26.70804643632712,4917 127.8964846292674,26.70832516521593,4917 127.8964679304947,26.70854644701253,4917 127.8970245872347,26.7084243482911,4917 127.8972375133909,26.70857053800659,4917 127.8972191470673,26.70881394797695,4917 127.8974997137782,26.70905312008079,4917 127.8977721986274,26.70906952111993,4917 127.898421256123,26.70904190074222,4917 127.8989926661751,26.70905406348919,4917 127.8989709534733,26.70934172935499,4917 127.8984936219322,26.70940191663315,4917 127.8983711618039,26.7097057546059,4917 127.8982453704962,26.71005386381437,4917 127.8981178979564,26.7104240822626,4917 127.8984399319132,26.71044347259349,4917 127.8982876456778,26.71081231039873,4917 127.8979753215513,26.71099364728705,4917 127.8977571094383,26.71124726307014,4917 127.8965202158752,26.71115043561879,4917 127.8957984628349,26.71115145538113,4917 127.8957090940074,26.71134616266136,4917 127.8958410155299,26.71157641861615,4917 127.8951738334389,26.71151399303447,4917 127.890604843089,26.71006073409631,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>黒島2（仲本海岸）</name>
+			<description>石垣港ターミナルよりフェリーで約３０分。仲本海岸付近はシュノーケリングスポットでもあり、過去に遊泳中の事故も発生しているため注意が必要である。</description>
+			<styleUrl>#msn_ylw-pushpin31</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							123.996135781955,24.23201230832437,4917 123.9960740799474,24.23215157506839,4917 123.9959667096064,24.23217462264794,4917 123.9958454656153,24.23226754420386,4917 123.99588687505,24.23234373462583,4917 123.995943672516,24.23248116589457,4917 123.9958753516604,24.23258701293775,4917 123.9958255658074,24.23270572273043,4917 123.9957005927493,24.23284778583513,4917 123.9955146445462,24.23273163053621,4917 123.9953589030863,24.23262813711835,4917 123.9952964564267,24.23275737717322,4917 123.9952989643031,24.23285687220569,4917 123.9953526013144,24.23298593097228,4917 123.9954451874417,24.23315462513083,4917 123.995488333727,24.23326555315597,4917 123.9953906542328,24.23332003512992,4917 123.9952685299372,24.23339267508099,4917 123.9952709051585,24.23358643586624,4917 123.9952225690212,24.23363550125936,4917 123.9951093933375,24.2335566312573,4917 123.9949422696685,24.23342188522332,4917 123.9948701753218,24.23329112131083,4917 123.9948631960704,24.23327846183585,4917 123.994777165516,24.23317509221532,4917 123.9947213903086,24.23313714283648,4917 123.9945842100112,24.23302522186945,4917 123.9946975711631,24.23280910664295,4917 123.9947738173713,24.23260998348785,4917 123.9948826934431,24.23248067376561,4917 123.9950216976119,24.23232168170365,4917 123.9949798064865,24.23226670246736,4917 123.9951141305896,24.23208865981877,4917 123.9952066821143,24.23191915037319,4917 123.9953549650019,24.23175590839102,4917 123.9953458627876,24.23185542551973,4917 123.9953019570598,24.23196558320738,4917 123.9953738361638,24.23191677781974,4917 123.995461983592,24.23187641732778,4917 123.9955664183717,24.23185508445529,4917 123.9957124680326,24.23174053651101,4917 123.9958861979649,24.23152855829948,4917 123.9959650467756,24.23148186107871,4917 123.9959837417086,24.23154746204859,4917 123.9960350102386,24.23165112031003,4917 123.9960652739973,24.23169553221352,4917 123.9960021480739,24.23176157153828,4917 123.9960384566011,24.23182969703108,4917 123.9961128303959,24.23181680439975,4917 123.996135781955,24.23201230832437,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>奥港2</name>
+			<description>那覇空港から沖縄自動車道を利用して約2時間半。
+強い流れで流された事故が発生している。海岸付近までリーフギャップが延びており、遊泳には注意が必要。</description>
+			<styleUrl>#msn_ylw-pushpin01</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							128.2814245191698,26.85190623525806,4917 128.2815107493531,26.85179435321046,4917 128.2815908318324,26.85171207620143,4917 128.2816998689427,26.85161807206328,4917 128.2817853078646,26.85151894731179,4917 128.2819645388293,26.8514571887095,4917 128.282080793389,26.8515251714419,4917 128.2822404858115,26.85158192741048,4917 128.2823132906794,26.85166113630146,4917 128.2823780849699,26.85170600516029,4917 128.2824388736557,26.85173370464583,4917 128.2825482450365,26.85174184656413,4917 128.2826376142183,26.8517705605363,4917 128.2827037338254,26.85178567880839,4917 128.2827660569728,26.85188579260464,4917 128.2828784795635,26.85193234960282,4917 128.2829304967333,26.85194270987616,4917 128.283097402336,26.8519443798977,4917 128.2831739945474,26.85193858661146,4917 128.2832711583288,26.85189947144003,4917 128.2833279371655,26.85191000042907,4917 128.2834788392164,26.85194940956297,4917 128.2836112564536,26.85197539459916,4917 128.2836783295801,26.85207567039487,4917 128.2836733858205,26.85218615579909,4917 128.2837215953122,26.85228150182698,4917 128.2837856139341,26.85234335838133,4917 128.2838058157565,26.85242493810011,4917 128.2837299896856,26.8524137358928,4917 128.2836878841363,26.85239521777171,4917 128.2835693810741,26.85237824391394,4917 128.2835131767335,26.8523549685739,4917 128.2834670670725,26.85231928372854,4917 128.2834251499385,26.85229651553539,4917 128.2833916184756,26.85229958138177,4917 128.2833638002629,26.85228156955835,4917 128.2832889212658,26.85224911882352,4917 128.2832388069452,26.85219626588804,4917 128.2831378312301,26.85221396342999,4917 128.2831031594914,26.85224252613203,4917 128.283003323064,26.85223472597979,4917 128.2828897666399,26.8522136688471,4917 128.2828188874825,26.85219838408628,4917 128.2827504751188,26.85212785479467,4917 128.28271902995,26.85208417526756,4917 128.2826418479403,26.85199630677205,4917 128.2825543778523,26.8519250982029,4917 128.2824798699214,26.85188414234153,4917 128.2824190826397,26.85185644421117,4917 128.2823680112586,26.85182483444886,4917 128.2822647301892,26.85178711328124,4917 128.2821587683136,26.85170247150779,4917 128.282022704948,26.85165081368874,4917 128.2819506798825,26.85166102544015,4917 128.2818538927672,26.8516916416282,4917 128.2817899342589,26.85173618732514,4917 128.2817217972706,26.85176780715191,4917 128.2816770506541,26.85180877495504,4917 128.2816131971589,26.85184907548046,4917 128.2815783039261,26.85188189468401,4917 128.2815523503623,26.85192780857424,4917 128.2814245191698,26.85190623525806,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>奥港1</name>
+			<description>那覇空港から沖縄自動車道を利用して約2時間半。
+強い流れで流された事故が発生している。海岸付近までリーフギャップが延びており、遊泳には注意が必要。</description>
+			<styleUrl>#msn_ylw-pushpin01</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							128.2854074008244,26.85033504874454,4917 128.2853076560597,26.85004949713523,4917 128.2851838428014,26.84939539564739,4917 128.2851671990826,26.84914405863192,4917 128.2852035961844,26.84879735802512,4917 128.2851352103478,26.84857600415783,4917 128.2849757161633,26.84846696723145,4917 128.2848244747223,26.84831894505983,4917 128.2849869065179,26.84822320691791,4917 128.2851402590977,26.84826885253892,4917 128.2852999492819,26.84789006536021,4917 128.2855028811979,26.84788992754368,4917 128.2854813888929,26.84812629860623,4917 128.2855928781577,26.84820519170957,4917 128.285788430944,26.84823800702204,4917 128.2858220288159,26.84848650503574,4917 128.2859829837471,26.84849270177437,4917 128.2861339219428,26.84849803943783,4917 128.2862820841189,26.84859122913209,4917 128.2864012208742,26.84869728250823,4917 128.286483011069,26.84868736471601,4917 128.2867274885779,26.84869601265995,4917 128.2869125452036,26.84884471158263,4917 128.2870597231997,26.84899488657765,4917 128.2871925761383,26.84927065420197,4917 128.2873734949888,26.84955823487965,4917 128.2875439454385,26.84994588853094,4917 128.2875827410816,26.85005327146247,4917 128.2854074008244,26.85033504874454,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>国頭村美作付近海岸</name>
+			<description>那覇空港から沖縄自動車道を利用して約2時間半。
+国頭村安波の集落、美作（ちゅらさく）。
+</description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							128.2926366626224,26.70936199511016,4917 128.2926864467859,26.70927287329172,4917 128.29271763306,26.70915500277882,4917 128.2928092236587,26.70903426245121,4917 128.2929094051674,26.70890782061131,4917 128.2929462746158,26.70886187866062,4917 128.2930845340292,26.70868959625695,4917 128.2932983507561,26.70843528728962,4917 128.2933997390077,26.70830894659373,4917 128.2935811754772,26.70815562636381,4917 128.2937671028256,26.70805734311664,4917 128.2938655869227,26.7080073878646,4917 128.2939576421329,26.70795331537246,4917 128.2940709187841,26.70786066930568,4917 128.2941197930682,26.70778763798674,4917 128.2941704852873,26.70772446737562,4917 128.2942579315703,26.70767613933436,4917 128.2942525866872,26.70758577577852,4917 128.2942904227265,26.7075143713302,4917 128.2943503308369,26.70743971215595,4917 128.2944608160159,26.70736266904899,4917 128.2945627089862,26.70745400032375,4917 128.2947705949442,26.70741324815173,4917 128.2950249529049,26.70759352552873,4917 128.2951519360682,26.70754443472789,4917 128.2952401177587,26.70759221037931,4917 128.2953224929838,26.70779275410715,4917 128.2954767791397,26.70789156049992,4917 128.2955951702983,26.70801084248145,4917 128.2958279182115,26.70795123326382,4917 128.2959677596309,26.70791037275923,4917 128.2961221655377,26.70794839137048,4917 128.296239817421,26.70797156818386,4917 128.2963509263883,26.7080514126042,4917 128.2964463867849,26.70813862492068,4917 128.2964462719872,26.708199408503,4917 128.2964066167434,26.70826095389526,4917 128.2964386456973,26.70834232063159,4917 128.2964274932141,26.70840473039035,4917 128.2962982341123,26.70868709710228,4917 128.2962584610007,26.70880942206925,4917 128.2961966127195,26.70893500540814,4917 128.2961724881148,26.70904996432847,4917 128.2961124591557,26.70918540478163,4917 128.2960865142441,26.70929050489611,4917 128.2960154549131,26.70942756810107,4917 128.2959434218488,26.70959009565298,4917 128.2958005605087,26.7097681276534,4917 128.2955732867386,26.71001005681286,4917 128.2955135967888,26.71008253099031,4917 128.2954195320961,26.71020828933002,4917 128.2954103766977,26.71039352235219,4917 128.2953697551812,26.71044245179392,4917 128.2951326319805,26.71045172918003,4917 128.2951101416754,26.71058150222927,4917 128.2950073777162,26.71059076501001,4917 128.2947462811927,26.71054672417598,4917 128.2945692399216,26.71042813486982,4917 128.2944178853381,26.7103912250441,4917 128.2941142495304,26.71025839032615,4917 128.2937507016667,26.71004455483615,4917 128.2935480173011,26.70991156258332,4917 128.293386390365,26.70981124514983,4917 128.293043631488,26.70970201866582,4917 128.2928309296167,26.70957891294476,4917 128.2926417133402,26.70945215495371,4917 128.2926366626224,26.70936199511016,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>宮城島</name>
+			<description>沖縄本島から海中道路を通り、平安座島の先にある。
+那覇空港から沖縄自動車道を利用して約1時間40分。
+満潮時にはリーフギャップが見えないが、干潮時には確認できる。</description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							127.9979866379553,26.3643006820718,4917 127.9977452653627,26.36427135591944,4917 127.9975928355752,26.36434222559965,4917 127.9975348791758,26.36457226231114,4917 127.9973770330539,26.36472668187788,4917 127.9971708437419,26.36478972053161,4917 127.9970602334526,26.36502372567189,4917 127.9968464193768,26.36514672297352,4917 127.9965940982051,26.36514197092263,4917 127.9967704069318,26.36476049153209,4917 127.9969621013126,26.36440161081854,4917 127.9967679632754,26.36445186186787,4917 127.9968512600274,26.36435056773457,4917 127.9968873161417,26.36416968892142,4917 127.9969727059234,26.36394946622858,4917 127.9967313336668,26.36392013445534,4917 127.9964988198953,26.36398515623953,4917 127.9962135403058,26.36391161752569,4917 127.9960258164514,26.36374759269421,4917 127.996340634843,26.36371201167896,4917 127.9965972620208,26.36362141844118,4917 127.9968889539672,26.36348067338201,4917 127.9970566421831,26.36328987969013,4917 127.997181635141,26.36320920001699,4917 127.9972506563463,26.36309710400134,4917 127.9974458926158,26.36305864255973,4917 127.9975301760842,26.36282661975821,4917 127.9979866379553,26.3643006820718,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>吉野海岸</name>
+			<description>宮古空港から車で約40分。
+シュノーケリングが盛んで、泳いでいる最中に流される事故が発生している。
+リーフギャップが小さくても、そこに集中して潮が流れるため、流れが速くなる恐れがある。
+</description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							125.444310323366,24.74715709844041,4917 125.4444958799286,24.74721592949036,4917 125.4447115776596,24.7472734256399,4917 125.4449908337749,24.7473287036421,4917 125.4452907419663,24.74742088660287,4917 125.4452619597751,24.74762323553065,4917 125.445272078299,24.74778009417995,4917 125.4452688645016,24.74800821937699,4917 125.4451682616867,24.74820896089283,4917 125.4450270863015,24.74815134259716,4917 125.4449825785772,24.74820255781868,4917 125.4449895572869,24.74831073576047,4917 125.4449965359971,24.74841891375242,4917 125.4449943940505,24.74857099657697,4917 125.4449873671483,24.74864735482386,4917 125.4449144502995,24.74881405782305,4917 125.4447676920867,24.74866989669725,4917 125.4447011537681,24.74856488763325,4917 125.4446426649503,24.74849201490227,4917 125.4445288281306,24.74839494963797,4917 125.4443985195334,24.74832047046883,4917 125.4442479011245,24.74820907988182,4917 125.444066108278,24.74807763776042,4917 125.4439034747794,24.74798345543764,4917 125.4437114787701,24.7479075774758,4917 125.4436100120411,24.74783227158716,4917 125.443663481151,24.74774303432188,4917 125.4436820742364,24.74766648129608,4917 125.4436397108891,24.74757736044901,4917 125.443750303032,24.74752780726983,4917 125.4437837498236,24.74740739138714,4917 125.4438881894966,24.74735264127622,4917 125.4438834424515,24.74728842015105,4917 125.4439067827571,24.74720694597564,4917 125.4439372688129,24.74714123044183,4917 125.4440401865076,24.74708196022718,4917 125.4441177174628,24.74707744072148,4917 125.444310323366,24.74715709844041,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>池間島A</name>
+			<description>宮古空港から車で40分。宮古島から池間大橋を渡る。
+大きなリーフギャップがある。天候によって、強い流れが発生することが予想される。
+</description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							125.2372068101269,24.94493966815808,4917 125.2379052824621,24.9445497021709,4917 125.2382013755099,24.94430630701925,4917 125.2384966144909,24.94411176736491,4917 125.2393761202468,24.94403885006627,4917 125.2396447952812,24.94377160724667,4917 125.2400443144819,24.94372306175424,4917 125.2405528629105,24.94328662699634,4917 125.2409521308674,24.94318975659963,4917 125.2413261720429,24.94280269854284,4917 125.2413266790668,24.94270604200334,4917 125.2415401812571,24.94246458312337,4917 125.2416753370174,24.94188621593973,4917 125.2422067554599,24.94140537797741,4917 125.2425782299882,24.94099745660403,4917 125.2427374101459,24.94073389836164,4917 125.2431338727594,24.94068600428835,4917 125.2438210347608,24.94099743718584,4917 125.2443502277374,24.94121329609595,4917 125.2448799217549,24.94142935072617,4917 125.2451976196932,24.94145336244815,4917 125.2454891739168,24.94154946230137,4917 125.24549142625,24.94210286193684,4917 125.2459157813175,24.94215103424302,4917 125.2462073920374,24.94215102526237,4917 125.2463425293719,24.9425851656329,4917 125.2465557579653,24.94273006740409,4917 125.2470324456095,24.94258513402683,4917 125.2472700873619,24.94244031821502,4917 125.247455773568,24.94244031058795,4917 125.247565692578,24.94287501784564,4917 125.2474906295984,24.94340750687719,4917 125.2468804479534,24.94357724767321,4917 125.2466427287897,24.9438199133599,4917 125.2467824420653,24.94474459816113,4917 125.2461190447368,24.94535466596946,4917 125.2448384264411,24.94574602134832,4917 125.2439566846828,24.94591745973264,4917 125.2431011067397,24.94601548230763,4917 125.2423256044926,24.94603999628794,4917 125.2417614564395,24.94667815756421,4917 125.2372068101269,24.94493966815808,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>池間島1</name>
+			<description>宮古空港から車で40分。宮古島から池間大橋を渡る。
+大きなリーフギャップがある。天候によって、強い流れが発生することが予想される。
+</description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							125.231513369577,24.93595261030699,5428 125.232209087579,24.93609496386772,5428 125.2327083107476,24.93638542998851,5428 125.2332654067755,24.93665021549907,5428 125.2338787853114,24.93679306479249,5428 125.2343811373821,24.93703475874603,5428 125.234667354,24.93725541181231,5428 125.234389869235,24.93748047562797,5428 125.2341463736911,24.93757960309262,5428 125.2343296177423,24.93784757543722,5428 125.2340866515899,24.93801885706253,5428 125.2338425532108,24.93823932646663,5428 125.2334901930261,24.93850929893642,5428 125.2333005903033,24.93863222979757,5428 125.2331365729886,24.93882864146318,5428 125.231513369577,24.93595261030699,5428 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>黒島1（宮里海岸）</name>
+			<description>石垣港ターミナルよりフェリーで約３０分。顕著なリーフギャップは確認できないが、赤で囲まれた部分は水深が深いため、干潮になる際には早い流れの潮が発生する可能性がある。</description>
+			<styleUrl>#msn_ylw-pushpin31</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							123.9923540973122,24.23418838406555,4917 123.9922792099773,24.23395984766287,4917 123.9922589422826,24.23380269946504,4917 123.9922331334851,24.23372400521395,4917 123.9922348149179,24.23357072100217,4917 123.9922916071733,24.23345908381368,4917 123.9922399764949,24.23320779749314,4917 123.9923419321367,24.23304585123823,4917 123.9925631824803,24.2329633314821,4917 123.9927239514364,24.23291712465265,4917 123.9927670262929,24.23282909287129,4917 123.9929531499041,24.23276614756972,4917 123.993076007361,24.23273083779517,4917 123.9932744694676,24.23267379654672,4917 123.9933376938709,24.23264617788323,4917 123.9934634817437,24.23261947279264,4917 123.9935703855536,24.23259819672162,4917 123.9937228505568,24.23264895293857,4917 123.9938052074207,24.23276741331146,4917 123.9939339251425,24.23311099677556,4917 123.9940303797512,24.23317877412378,4917 123.9941685106105,24.23321557567027,4917 123.9940934705925,24.23336165786133,4917 123.9940313248298,24.23348506593469,4917 123.994065443156,24.23370615180441,4917 123.9939930433946,24.23386203358584,4917 123.9937997109969,24.23403360355054,4917 123.9935982785616,24.23412053266388,4917 123.9934686133575,24.23410941911595,4917 123.9932010547547,24.23431218783568,4917 123.9930810801451,24.23442425096937,4917 123.9929167497095,24.23452973230419,4917 123.9926263929322,24.23460347316548,4917 123.9923540973122,24.23418838406555,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>黒島3（仲本海岸）</name>
+			<description>石垣港ターミナルよりフェリーで約３０分。仲本海岸付近はシュノーケリングスポットでもあり、過去に遊泳中の事故も発生しているため注意が必要である。</description>
+			<styleUrl>#msn_ylw-pushpin31</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							123.9968959258048,24.22922389405359,4917 123.9970427935925,24.2291338430162,4917 123.9972144769518,24.22906662950957,4917 123.9974105616779,24.22897684105892,4917 123.9976756307744,24.22916440967364,4917 123.9978412676741,24.22926118587857,4917 123.9979375359634,24.22936662917849,4917 123.9981422409428,24.22966546444248,4917 123.9981398410512,24.22983968334241,4917 123.9980725907538,24.22998725241133,4917 123.9980262492571,24.23019563268414,4917 123.9977099227232,24.23045940625965,4917 123.9975810376563,24.23061134941366,4917 123.9973377867892,24.23073824222633,4917 123.9970081652398,24.23082130141943,4917 123.9967716981955,24.23063532178865,4917 123.996615906641,24.23034441696726,4917 123.9965848301655,24.23003300295893,4917 123.9968057499223,24.22971229251483,4917 123.9968959258048,24.22922389405359,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>波照間1（毛崎）</name>
+			<description>石垣港ターミナルより高速船で約１時間１０分の所に位置する島。同付近では５００ｍを超える沖合へと流れる潮の発生が確認されている。</description>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							123.753179518622,24.0574647435844,4917 123.7534068866063,24.05789415169444,4917 123.7533819007895,24.05849992490821,4917 123.7533762303601,24.05851589855254,4917 123.7529388950189,24.05900467391695,4917 123.7523928114759,24.0590952478317,4917 123.7513757328636,24.05884211472559,4917 123.7506189069596,24.0587153878403,4917 123.7498498938518,24.05851501717166,4917 123.7491731909265,24.0582706273015,4917 123.7490051831411,24.0579425454355,4917 123.748958224453,24.05717768605859,4917 123.7492281134374,24.05664483235597,4917 123.7501059010992,24.05626908092733,4917 123.7512236611857,24.05627442213725,4917 123.7520825700631,24.05631048802476,4917 123.7523942682965,24.05639822489428,4917 123.7530026717346,24.05651650877755,4917 123.7531686793706,24.05690764381422,4917 123.753179518622,24.0574647435844,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>波照間2</name>
+			<description>石垣港ターミナルより高速船で約１時間１０分の所に位置する島。満潮時も含め常に水面上に露出している岩や細かな水路があるため速い流れの潮が発生する可能性がある。</description>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							123.7571227148793,24.06481549548491,4917 123.7572610849183,24.06436328395401,4917 123.7574805011094,24.06373608753477,4917 123.7580465587947,24.06364314916012,4917 123.7585973315479,24.06376303039658,4917 123.7590940625564,24.06386760295153,4917 123.7593334046997,24.06391733745572,4917 123.7597473414754,24.06397825569192,4917 123.7597208080799,24.06422579505976,4917 123.7597037334776,24.06427544179316,4917 123.7596502994073,24.06460447817496,4917 123.7596950747893,24.06476227586687,4917 123.7594946799256,24.06523252585515,4917 123.7593088125583,24.06554422846687,4917 123.759050265344,24.06583607151176,4917 123.7587306531012,24.06572724499107,4917 123.7584742004906,24.06543546769721,4917 123.7580702754435,24.06528454741035,4917 123.7577509472119,24.06517582976629,4917 123.7573001316484,24.0651028439182,4917 123.7571227148793,24.06481549548491,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>池間島</name>
+			<description>宮古空港から車で40分。宮古島から池間大橋を渡る。
+大きなリーフギャップがある。天候によって、強い流れが発生することが予想される。
+</description>
+			<LookAt>
+				<longitude>125.2495288164608</longitude>
+				<latitude>24.94964024866037</latitude>
+				<altitude>0</altitude>
+				<heading>0.00306767276662274</heading>
+				<tilt>44.35406235210232</tilt>
+				<range>13097.69108964012</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_caution0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>125.2395406628773,24.93432925259235,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>伊計島</name>
+			<description>沖縄本島から海中道路を通り、平安座島、宮城島の先にある。
+那覇空港から沖縄自動車道を利用して約1時間40分。
+大きなリーフギャップが海岸付近まで伸びている。水深は周囲に比べてやや深くなっており、干潮時には非常に危険。</description>
+			<LookAt>
+				<longitude>127.9951617034163</longitude>
+				<latitude>26.39172001626112</latitude>
+				<altitude>0</altitude>
+				<heading>-30.08792936410789</heading>
+				<tilt>22.65636096047604</tilt>
+				<range>1535.007967506763</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_caution2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>127.9951611111111,26.39171944444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ナガンヌ島</name>
+			<description>渡嘉敷村に位置する通称チービシ。本島からフェリーで30分ほどで行くことができる</description>
+			<LookAt>
+				<longitude>127.6496150832604</longitude>
+				<latitude>26.25033056673336</latitude>
+				<altitude>0</altitude>
+				<heading>-30.23758902585277</heading>
+				<tilt>66.29946442331129</tilt>
+				<range>31589.57431810698</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_caution30</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>127.5432737885584,26.26612600690778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>宮城島</name>
+			<description>沖縄本島から海中道路を通り、平安座島の先にある。
+那覇空港から沖縄自動車道を利用して約1時間40分。
+満潮時にはリーフギャップが見えないが、干潮時には確認できる。</description>
+			<LookAt>
+				<longitude>127.9824464378837</longitude>
+				<latitude>26.3670265837094</latitude>
+				<altitude>0</altitude>
+				<heading>-30.10060495346121</heading>
+				<tilt>48.69129136090185</tilt>
+				<range>8280.095874077764</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_caution2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>127.9824472222222,26.36702777777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>黒島</name>
+			<description>石垣港ターミナルよりフェリーで約３０分。宮里海岸・仲本海岸とリーフカレントが発生する場所が３カ所ある。</description>
+			<LookAt>
+				<longitude>124.0085765822375</longitude>
+				<latitude>24.24924948546274</latitude>
+				<altitude>0</altitude>
+				<heading>0.006299281899435554</heading>
+				<tilt>45.04406376723539</tilt>
+				<range>8065.473043163127</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_caution3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>124.0085765822375,24.24924948546274,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>御神崎</name>
+			<description>石垣島の西にある。石垣空港からは約40分。
+リーフの形は複雑で、気象や海の条件によって流れが速くなる恐れがある。</description>
+			<LookAt>
+				<longitude>124.0893781719784</longitude>
+				<latitude>24.45395378595513</latitude>
+				<altitude>0</altitude>
+				<heading>0.02804361043265307</heading>
+				<tilt>37.30514222591027</tilt>
+				<range>6109.010787013658</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_caution1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>124.0855711050659,24.44921098737526,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>本部町北岸</name>
+			<description>那覇空港より沖縄自動車道を経由して約2時間の本部町に位置するビーチ。流れの早潮の発生に注意が必要である。</description>
+			<LookAt>
+				<longitude>127.9203120693246</longitude>
+				<latitude>26.68325756972515</latitude>
+				<altitude>0</altitude>
+				<heading>-16.64666107229369</heading>
+				<tilt>23.93112737139977</tilt>
+				<range>4893.615235251618</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_caution0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>127.9050388888889,26.69979722222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>国頭村美作付近</name>
+			<description>那覇空港から沖縄自動車道を利用して約2時間半。
+国頭村安波の集落、美作（ちゅらさく）。
+</description>
+			<LookAt>
+				<longitude>128.2927042175376</longitude>
+				<latitude>26.72989557995917</latitude>
+				<altitude>0</altitude>
+				<heading>-16.47346880289856</heading>
+				<tilt>20.50705211461643</tilt>
+				<range>22289.93192161684</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_caution0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>128.2911833333333,26.70855277777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>米原ビーチ</name>
+			<description>石垣空港から約30分。シュノーケリングが盛んで、リーフカレントが原因と思われる事故が多いビーチでもある。強風の日や高波の場合、満潮でもリーフカレントが発生する恐れがある。</description>
+			<LookAt>
+				<longitude>124.1820664123508</longitude>
+				<latitude>24.45930028511556</latitude>
+				<altitude>0</altitude>
+				<heading>0.06640852484136835</heading>
+				<tilt>37.32710959788937</tilt>
+				<range>10322.03948685549</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_caution1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>124.183835295525,24.45263436586595,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>明石海岸</name>
+			<description>石垣空港から約40分。5カ所のリーフギャップがある。
+奥のリーフギャプは大きく、干潮時に海水が集中して流れ込み、強い流れが発生する可能性がある。
+手前4つも流れが速くなることが予想される。</description>
+			<LookAt>
+				<longitude>124.2965445506668</longitude>
+				<latitude>24.54367308749782</latitude>
+				<altitude>0</altitude>
+				<heading>0.1132747907382346</heading>
+				<tilt>35.01898520907039</tilt>
+				<range>9889.667255622249</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_caution1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>124.3086332829023,24.55017609893037,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>伊江島（伊江ビーチ付近）</name>
+			<description>本部港（本部町）より船にて約５０分。３ヵ所主なリーフギャップが存在する。
+基注：C付け足し</description>
+			<LookAt>
+				<longitude>127.8130817323081</longitude>
+				<latitude>26.72141611130229</latitude>
+				<altitude>0</altitude>
+				<heading>3.009753252177886</heading>
+				<tilt>0</tilt>
+				<range>10016.34149475838</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_caution3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>127.8130817323081,26.72141611130229,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>波照間島</name>
+			<description>石垣港ターミナルより高速船で約１時間１０分の所に位置する島。波照間島のニシ浜は広い遠浅の海であり、速い流れの潮が発生する場所がある。</description>
+			<LookAt>
+				<longitude>123.7725196155608</longitude>
+				<latitude>24.11058753453815</latitude>
+				<altitude>0</altitude>
+				<heading>0.009089288859616412</heading>
+				<tilt>44.51498188846276</tilt>
+				<range>22578.44893396039</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_caution3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>123.7737910500436,24.05821346354572,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>吉野海岸</name>
+			<description>宮古空港から車で約40分。
+シュノーケリングが盛んで、泳いでいる最中に流される事故が発生している。
+リーフギャップが小さくても、そこに集中して潮が流れるため、流れが速くなる恐れがある。
+</description>
+			<LookAt>
+				<longitude>125.4442749416695</longitude>
+				<latitude>24.74366223732517</latitude>
+				<altitude>0</altitude>
+				<heading>0.1142571129758763</heading>
+				<tilt>34.08563880685427</tilt>
+				<range>5142.719433123715</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_caution</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>125.4442749416695,24.74366223732518,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>真栄田岬</name>
+			<description>那覇空港より国道５８号線を北上し約１００分。青の洞窟として有名でシュノーケリング、ダイビングスポットとなっている。</description>
+			<styleUrl>#msn_ylw-pushpin01</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							127.7356459523728,26.42852636341805,4917 127.736195659844,26.42826703257272,4917 127.736694872664,26.4277501338056,4917 127.7370971532297,26.42668802509057,4917 127.7380014192741,26.42602556625906,4917 127.738599419826,26.42595521647576,4917 127.7391853843812,26.42599145680255,4917 127.73930896554,26.42557089486156,4917 127.7398703568922,26.42433157251951,4917 127.740207267952,26.42333750106672,4917 127.7406383484345,26.42329453646273,4917 127.7407645960801,26.42358113240779,4917 127.7407155806528,26.42406780879099,4917 127.7406451303749,26.42476709994935,4917 127.7407971366172,26.42520103654905,4917 127.7409998104093,26.42592503984727,4917 127.741490171299,26.42613400044405,4917 127.7420562556771,26.42638377002316,4917 127.7427056930271,26.42703487405389,4917 127.7428667643842,26.42744207852024,4917 127.7432127683157,26.42800760503744,4917 127.7433110595039,26.4287070406179,4917 127.7431751853605,26.4293597774138,4917 127.742764867784,26.43085606713446,4917 127.742325375019,26.43127843861024,4917 127.7416780083283,26.43131351773798,4917 127.7407970744508,26.43125904806097,4917 127.7400587702531,26.43098823155275,4917 127.7396340601072,26.43081212045555,4917 127.7389101272907,26.43043096521178,4917 127.738176307943,26.43016191674219,4917 127.7378642660614,26.43044095342542,4917 127.7356459523728,26.42852636341805,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>吉原海岸</name>
+			<description>新石垣空港より車で約30分の場所に位置するビーチ。リーフギャップはビーチから沖合に伸びており、広いビーチの海水が同ギャップより集中して流れるため強い流れが発生する。</description>
+			<LookAt>
+				<longitude>124.1573841255423</longitude>
+				<latitude>24.45782179004671</latitude>
+				<altitude>0</altitude>
+				<heading>0.05619344392187189</heading>
+				<tilt>37.3271069086663</tilt>
+				<range>10321.55142565733</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_caution10</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>124.1593275164946,24.45061411779283,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>那覇空港</name>
+			<LookAt>
+				<longitude>127.6528963109771</longitude>
+				<latitude>26.19657535719761</latitude>
+				<altitude>0</altitude>
+				<heading>0.002803345618392924</heading>
+				<tilt>0</tilt>
+				<range>5830.663721442744</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-blank</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>127.6462419626454,26.20185843731409,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>宮城海岸</name>
+			<description>那覇空港より国道58号線を経由して約1時間。北谷町にある浅瀬の広がる海岸。同海岸には複数の複雑なリーフギャップがあるため気象条件により大量の潮が沖合に流出する可能性がある。</description>
+			<LookAt>
+				<longitude>127.7441330095169</longitude>
+				<latitude>26.33077748853952</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001534231178806855</heading>
+				<tilt>4.927378138938668</tilt>
+				<range>1286.921728158486</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_caution01</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>127.7426978356594,26.33115317321148,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>伊江島A</name>
+			<description>本部港（本部町）より船にて約50分。干潮時には赤で囲った付近の海水が流れ出すため海水が集中して沖合に流出する可能性がある。</description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							127.827231870829,26.70768137059738,4917 127.8271436521783,26.70713903119262,4917 127.827653414015,26.70611014915859,4917 127.8281715156412,26.70545503898632,4917 127.8282354728945,26.70491002045149,4917 127.8287527901252,26.70422083425767,4917 127.8300574566883,26.70470737597249,4917 127.831599526888,26.70559772792924,4917 127.8332869895352,26.70617944319563,4917 127.8340689675648,26.70711741143063,4917 127.8341235295644,26.70786428781719,4917 127.8341358131252,26.70840795825654,4917 127.8341578586734,26.70939337903487,4917 127.8341700302769,26.70993705174781,4917 127.8343366213896,26.71057995849588,4917 127.8338824374,26.71069002926823,4917 127.8328934067884,26.71070770238364,4917 127.8316693342582,26.71042362160912,4917 127.8296350471376,26.70964407579632,4917 127.8281645225226,26.7085485483257,4917 127.827231870829,26.70768137059738,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>伊江島B</name>
+			<description>本部港（本部町）より船にて約50分。干潮時には赤で囲った付近の海水が流れ出すため海水が集中して沖合に流出する可能性がある。</description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							127.8218066160587,26.70636929671776,4917 127.8223481347048,26.7057354433012,4917 127.8231952560137,26.70508722500999,4917 127.8231845249316,26.70432725490824,4917 127.8233757375878,26.7035273835884,4917 127.8242460643895,26.70327349021447,4917 127.8254005728952,26.70321917248786,4917 127.8257133621858,26.70390408542573,4917 127.8261995167961,26.70464169043454,4917 127.8264712137109,26.70520684730786,4917 127.8265016287609,26.70572252954954,4917 127.8262693248546,26.70640268637101,4917 127.8257671508765,26.70712594797603,4917 127.8249843812802,26.70771033575537,4917 127.8246341020589,26.70812225277352,4917 127.8228986450337,26.70756509646521,4917 127.8218066160587,26.70636929671776,4917 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>残波岬</name>
+			<description>那覇空港より国道58号線経由で約1時間に場所に位置するビーチ。大きく浅瀬が広がっている。干潮時、潮が引く際には岬付近から大量の海水が南へ流出することがある。</description>
+			<LookAt>
+				<longitude>127.7151644601507</longitude>
+				<latitude>26.43315366048625</latitude>
+				<altitude>0</altitude>
+				<heading>-1.80363849011035e-05</heading>
+				<tilt>0.02782979739305146</tilt>
+				<range>3289.816864743263</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_caution4</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>127.7133636577795,26.43906604629917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ナガンヌ島</name>
+			<description>泊港（那覇市）より船で約30分に位置する無人島。赤で囲った部分にリーフギャップがあり干潮時には大量の海水が流出する可能性がある。</description>
+			<styleUrl>#msn_ylw-pushpin100</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							127.5398580216496,26.26593802719831,0 127.5397114245658,26.26591529119949,0 127.539575996599,26.26583920343531,0 127.5396017886267,26.26549945951525,0 127.5397416666889,26.2651920323679,0 127.5398760848854,26.26469351399312,0 127.5402192339333,26.26420233099256,0 127.5404801345115,26.26374129733417,0 127.5408704736726,26.26330233606157,0 127.54152139048,26.26267782785458,0 127.5421975445179,26.2622080034662,0 127.5426145788707,26.26183341785964,0 127.5429269792143,26.26145738315785,0 127.5431265702591,26.26142214476127,0 127.5432533535013,26.26145504441007,0 127.5432312451967,26.26171663988228,0 127.5429568272475,26.26235243389143,0 127.5426804677188,26.2628441953817,0 127.5423157742021,26.2631766792313,0 127.5418233597897,26.26354447193871,0 127.5413292107439,26.26391357632863,0 127.5407872586769,26.26429015099496,0 127.5404318371657,26.26462929081173,0 127.5401291370251,26.26514260838633,0 127.5400671260921,26.26580527281901,0 127.5398580216496,26.26593802719831,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
